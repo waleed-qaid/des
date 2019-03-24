@@ -1,5 +1,5 @@
 .label-primary, .label-warning {
-    background-image: -webkit-linear-gradient(45deg,rgb(128, 128, 128) 25%,#656062 25%,#de5c8e 50%,rgb(128, 128, 128) 50%,rgb(128, 128, 128) 75%,#616161 75%,#616161)!important;
+    background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,#e25c8f 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important;
     border-radius: 24px!important;
     border-left: .5px solid#c27ba0!important;
     border-right: .5px solid#c27ba0!important;
