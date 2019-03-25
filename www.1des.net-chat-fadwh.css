@@ -1,5 +1,5 @@
 .label-primary, .label-warning {
-    background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important;
+    background-image: -webkit-linear-gradient(45deg,rgba(255, 255, 255, 0) 25%,transparent 25%,transparent 50%,rgba(255, 255, 255, 0) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important;
     border-radius: 3px!important;
     border-left: .5px solid#c27ba0!important;
     border-right: .5px solid#c27ba0!important;
@@ -9,7 +9,7 @@
 }
 
 .btn-primary {
-        background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important;
+        background-image: -webkit-linear-gradient(45deg,rgba(255, 255, 255, 0) 25%,transparent 25%,transparent 50%,rgba(255, 255, 255, 0) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important;
         border: 1px solid rgb(81, 72, 72)!important;
 
 }        
@@ -231,7 +231,7 @@ div#l2 button.btn.btn-primary, div#l3 button.btn.btn-primary {
 }
 
 .btn-primary, .btn-primary:hover {
-    background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important;
+    background-image: -webkit-linear-gradient(45deg,rgba(255, 255, 255, 0) 25%,transparent 25%,transparent 50%,rgba(255, 255, 255, 0) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important;
     background: linear-gradient(163deg,#1c585f 0%,#5ccad3 100%);
 }
 
@@ -444,31 +444,3 @@ label.fl.label.loginstat {
 body.bg.center-block.bg.dad div#tlogins {
     height: auto!important
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
