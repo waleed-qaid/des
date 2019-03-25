@@ -214,7 +214,7 @@ div#tlogins.light {
 
 div#l1 input#u1 {
     font-family: 'El Messiri',FontAwesome!important;
-    width: 100%;
+    width: 105%;
     margin-top: -3px;
     margin-left: center!important;
     text-align: center;
@@ -262,7 +262,7 @@ div#l2 input#u2, div#l3 input#u3 {
     border-right: 1px solid#c27ba0!important;
     border-top: 1px solid#9d778b!important;
     border-bottom: 1px solid#9d778b!important;
-    width: 100%;
+    width: 105%;
     padding: 0!important;
     margin-left: center!important;
     text-align: center;
@@ -279,7 +279,7 @@ div#l2 input#pass1, div#l3 input#pass2 {
     border-top: 1px solid#9d778b!important;
     border-bottom: 1px solid#9d778b!important;
     height: 30px;
-    width: 100%;
+    width: 105%;
     padding: 0!important;
     border-radius: 3px;
     margin-top: 2px;
