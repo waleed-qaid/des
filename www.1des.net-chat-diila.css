@@ -155,11 +155,7 @@ ul.nav.nav-tabs.fl li {
     padding: 10px 0px 2!important;
 }
 
-.label.tc.border.btn.fl, .label.tc.border.btn.fl {
-    border: 2px solid #616161!important;
-    font-family: 'El Messiri',FontAwesome!important;
-    font-size: 14px!important;
-}
+
 
 label.fl.label.loginstat.label-success {
     font-family: 'El Messiri',FontAwesome;
