@@ -1,0 +1,77 @@
+.fr.borderg, .fr.borderg a {
+    font-size: 100% !important;
+    padding: 0 5px!important;
+    border-radius: 0px 0px 0px 7px!important;
+    margin-top: 0px!important;
+    margin-right: 0px!important;
+    background-color: #333333!important;
+    border: black solid 0px;
+    color: #fff;
+}
+a.label.label-primary.fl img.fl {
+    display: none;
+}
+a.label.label-primary.fl {
+    border-radius: 3px!important;
+    margin: 2px -110px;
+    padding: 5px!important;
+    margin-bottom: 2px;
+    font-size: 100%!important;
+    text-align: right!important;
+
+}
+#des22 {
+
+    text-align: center!important;
+}
+button.btn.fr.btn-success.fa.fa-refresh {
+    display: none;
+}
+label.label.label-primary.mini.fl {
+    width: 65.1%!important;
+    padding: 1px;
+}
+//span.s1.fa.fa-user.label.badgex.label-as-badge.label-success {
+    padding: 0px 3px 2px;
+    margin-right: 5px;
+}
+.fr.borderg, .fr.borderg a {
+    font-size: 12px !important;
+    padding: 0 5px!important;
+}
+label.fl.label.loginstat {
+	background-color: transparent!important;
+    border-radius: 5px!important;
+    position: absolute;
+    top: 0;
+	left: 0;
+    margin: 2px -4px;
+    padding: 2px 8px 4px!important;
+    margin-top: 4px;
+    font-size: 100%!important;
+}
+ul.nav.nav-tabs.fl li .fa-user:before,.fa-user-plus:before {
+    display: none
+}
+ul.nav.nav-tabs.fl li {
+    width: 33.3%;
+    margin-left: -2px;
+    border-radius: 50px;
+	margin-bottom: 5px!important;
+	
+}
+ul.nav.nav-tabs.fl li a {
+    background-color: #333333!important;
+    color: #fff;
+    margin: auto;
+    text-align: center;
+    width: 95%;
+    border-radius: 3px;
+    margin-top: 2px;
+    padding: 2px 0!important;
+    margin-right: 67px;
+    border: 0px solid #4c4b4b
+}
+ul.nav.nav-tabs.fl {
+   background: none!important;
+}
