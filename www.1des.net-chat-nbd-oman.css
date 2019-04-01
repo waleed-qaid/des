@@ -159,7 +159,7 @@ ul.nav.nav-tabs.fl li .fa-user:before,.fa-user-plus:before
 {
 	float:left;
 	background-image:none;
-	background-image: radial-gradient(farthest-corner, rgb(224, 49, 49) 0, rgb(224, 49, 49) 49%, rgb(224, 49, 49) 50%, rgb(253, 169, 169) 100%)!important;
+	background-image: radial-gradient(farthest-corner,rgb(77, 74, 75) 0,rgb(77, 73, 75) 49%,rgb(76, 74, 75) 50%,rgb(214, 211, 212) 100%)!important;
 	padding:2px 5px;
 	margin-top:-5px;
 	margin-left:-5px;
@@ -245,7 +245,7 @@ ul.nav.nav-tabs.fl li .fa-user:before,.fa-user-plus:before
 #des4 {
     font-family: 'El Messiri',FontAwesome!important;
     color: #f9f9f9!important;
-    background-image: radial-gradient(farthest-corner, rgb(224, 49, 49) 0, rgb(224, 49, 49) 49%, rgb(224, 49, 49) 50%, rgb(253, 169, 169) 100%);
+    background-image: radial-gradient(farthest-corner,rgb(77, 74, 75) 0,rgb(77, 73, 75) 49%,rgb(76, 74, 75) 50%,rgb(214, 211, 212) 100%);
     font-size: 13px!important;
     text-align: center!important;
 }
@@ -337,7 +337,7 @@ div#tlogins ::-webkit-scrollbar-thumb {
     background: #61616147;
     border: 71px none #fff;
     border-radius: 31px;
-    background-image: radial-gradient(farthest-corner, rgb(224, 49, 49) 0, rgb(224, 49, 49) 49%, rgb(224, 49, 49) 50%, rgb(253, 169, 169) 100%)!important;
+    background-image: radial-gradient(farthest-corner,rgb(77, 74, 75) 0,rgb(77, 73, 75) 49%,rgb(76, 74, 75) 50%,rgb(214, 211, 212) 100%)!important;
 }
 
 div#tlogins ::-webkit-scrollbar-thumb:hover {
