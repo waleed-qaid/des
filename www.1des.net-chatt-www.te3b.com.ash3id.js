@@ -8,4 +8,4 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 	<p style="text-align: center"><b><u><font color="#0000FF">ينتهي العرض اول 
 	ايام عيد الاضحى المبارك</font></u></font></b><p style="text-align: center"><b> وكل عام و الجميع بالف خير وعافيه / الاداره </b><p style="text-align: center"><u><b>
 	<a target="_blank" href="https://www.te3b.com/sico/z1dehro0e410.JPG">و للتواصل مع الاداره اضغط هنا
-	</a></b></u></font></div></div></div><center>`).insertBefore('#d2');
+	</a></b></u></font></div></div></div><center>`).insertBefore('#d2');$("#design-a").click(function(){$("#spanan").slideToggle(function(){})});
