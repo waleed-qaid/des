@@ -15,13 +15,12 @@ btn btn-danger"> التطبيـق</a>
 btn btn-success"> للإشتراك</a>
 <a href="https://abo-arish2majed.000webhostapp.com/wp-content/uploads/2019/07/www.abo-arish.net_.majedindex-1.html" style="width:90px;margin:2px;" class="fl mini fa fa-balance
 btn btn-info">قوانين الموقع</a>
-<div style="border-radius: 2px 9px 9px 9px;width:100%;margin:2px;border: 2px solid #8F0000;" � id="asim33" class="btn btn-primary btn-sm" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample"> ادارة الموقع</div><div class="collapse" id="collapseExample"><center><div class="well">
+<div style="border-radius: 2px 9px 9px 9px;width:100%;margin:2px;border: 2px solid #8F0000;"  id="asim33" class="btn btn-primary btn-sm" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample"> ادارة الموقع</div><div class="collapse" id="collapseExample"><center><div class="well">
 <b>
-<font color="#FF0000"> اداره � الموقع </font> </BR>
-</BR> � .. آعــــــــفــ،ـيـنْــــــيُ </BR>
-� </BR> صــــاحب الموقع </BR>
-<font color="#0000FF">.. آعــــــــفــ،ـيـنْــــــيُ</font></BR> �  �  
-<center></div></div></center> � <center> <font color="#8F0000">لبيك والثقلان والدنيا تلبي ، لبيك رب العالمين وأنت يا الله ربي� </font></center>� 
+<font color="#FF0000"> اداره  الموقع </font> </BR>
+</BR>  .. آعــــــــفــ،ـيـنْــــــيُ </BR>
+ </BR> صــــاحب الموقع </BR>
+<font color="#0000FF">.. آعــــــــفــ،ـيـنْــــــيُ</font></BR>
 `).insertBefore('.nav-tabs');
 $("div#tlogins button.btn.btn-primary").click(function(){var myVar = setInterval(function(){ var usmsgw = $(".pmsgc").length;if(usmsgw > 0){
 $(`<div class="uzr fl corner borderg mm" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:#F7E7E7;">
