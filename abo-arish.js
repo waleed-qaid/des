@@ -45,7 +45,6 @@ $(`<center><div><div width="99.5%" style="background-image:url(https://mrkzgulfu
 $(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera"><link rel="stylesheet" href="assl.css">
 </style>`).insertBefore('span.fl.fa.fa-send');
 (document.getElementById("tbox").placeholder = " مـآ يلـفظ من قـول الا لـديه رقـيب عتيـد ");
-eval((emo+'').replace('[0-9][0-9]|','[0-9][0-9][0-9]|[0-9][0-9]|'));
 $(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera">
 <style>
 .fitimg.fl.u-pic  {box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgb(112, 112, 113);border-radius: 75px;}
@@ -66,7 +65,6 @@ div#users img.fl.ustat {
     height: 39px!important;
 }
 </style>`).insertBefore('body');
-eval((emo+'').replace('[0-9][0-9]|','[0-9][0-9][0-9]|[0-9][0-9]|'));
 $( "button.btn.btn-primary" ).css( "border-radius", "15px 15px 15px 15px" )
 $(".label-primary").css("border-radius","35px 0px 35px 0px")
 $('.uzr.fl.corner.borderg').css({'margin': '0px 0',borderRight: '1px solid #FFFFFF',borderLeft: '1px solid #FFFFFF',borderTop: '.1px solid #FFFFFF',borderBottom: '.1px solid #FFFFFF',paddingTop: '3px',borderRadius: '3px 3px 3px 3px'});
