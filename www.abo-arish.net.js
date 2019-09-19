@@ -1,28 +1,13 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@waleed-qaid 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+$( "button.btn.btn-primary" ).css( "border-radius", "24px 24px 24px 24px" )
+$(document).ready($("div.fr.borderg").css("display","none"));
+if(location.protocol!='https:'){location.protocol='https:';}
+$(".label-primary").css("border-radius","24px 24px 24px 24px")
 
 
-0
-00waleed-qaid/des
- Code Issues 0 Pull requests 0 Projects 0 Wiki Security Insights Settings
-des/www.abo-arish.net.js
-@waleed-qaid waleed-qaid Add files via upload
-9775c94 7 minutes ago
-71 lines (69 sloc)  11.3 KB
-  
+$(`
 
-
-
-
+`).insertBefore('.nav-tabs');
 $("div#tlogins button.btn.btn-primary").click(function(){var myVar = setInterval(function(){ var usmsgw = $(".pmsgc").length;if(usmsgw > 0){
 $(`<div class="uzr fl corner borderg mm" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:#F7E7E7;">
 <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url;" class="fl fitimg hand u-pic ">
@@ -41,10 +26,12 @@ clearInterval(myVar);
 
 }else{console.log(usmsgw)} }, 2000);
 })
-$(`<center><div><div width="99.5%" style="background-image:url(https://mrkzgulfup.com/uploads/156437100088551.gif);color: #000000;border-radius: 5px 5px 5px5px;border-bottom: 2px solid red;border-top: 2px solid red;padding-bottom: 2px!important;" ><font style="background-color: #E5F0F5;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;" >مرحبآ بكم في شآت أبو عريش </font></div></div><center>`).insertBefore('#d2');$('.nav-tabs').addClass('fl').css('width','100%');$
+$(`<center><div><div width="99.5%" style="background-image:url(https://mrkzgulfup.com/uploads/156437100088551.gif);color: #000000;border-radius: 5px 5px 5px5px;border-bottom: 2px solid red;border-top: 2px solid red;padding-bottom: 2px!important;" ><font style="background-color: #E5F0F5;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;" >مرحبآ بكم في شآت أبو عريش </font></div></div><center>`).insertBefore('#d2');
+$('.nav-tabs').addClass('fl').css('width','100%');$
 ('a[href="https://mrkzgulfup.com/uploads/15643711334562.gif"]').removeAttr('href');
 $(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera"><link rel="stylesheet" href="assl.css">
 </style>`).insertBefore('span.fl.fa.fa-send');
+
 $(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera">
 <style>
 .fitimg.fl.u-pic  {box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgb(112, 112, 113);border-radius: 75px;}
@@ -68,15 +55,3 @@ div#users img.fl.ustat {
 $( "button.btn.btn-primary" ).css( "border-radius", "15px 15px 15px 15px" )
 $(".label-primary").css("border-radius","35px 0px 35px 0px")
 $('.uzr.fl.corner.borderg').css({'margin': '0px 0',borderRight: '1px solid #FFFFFF',borderLeft: '1px solid #FFFFFF',borderTop: '.1px solid #FFFFFF',borderBottom: '.1px solid #FFFFFF',paddingTop: '3px',borderRadius: '3px 3px 3px 3px'});
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
