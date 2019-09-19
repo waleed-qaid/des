@@ -21,7 +21,8 @@ des/www.abo-arish.net.js
   
 
 
-$("<a href=' ' target='_blank' class='fr btn btn-danger fa fa-star'>.. آعــــــــفــ،ـيـنْــــــيُ ، ، -</a>").insertAfter('.loginstat');
+
+
 $("div#tlogins button.btn.btn-primary").click(function(){var myVar = setInterval(function(){ var usmsgw = $(".pmsgc").length;if(usmsgw > 0){
 $(`<div class="uzr fl corner borderg mm" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:#F7E7E7;">
 <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url;" class="fl fitimg hand u-pic ">
@@ -40,7 +41,7 @@ clearInterval(myVar);
 
 }else{console.log(usmsgw)} }, 2000);
 })
-$('.nav-tabs').addClass('fl').css('width','100%');$
+$(`<center><div><div width="99.5%" style="background-image:url(https://mrkzgulfup.com/uploads/156437100088551.gif);color: #000000;border-radius: 5px 5px 5px5px;border-bottom: 2px solid red;border-top: 2px solid red;padding-bottom: 2px!important;" ><font style="background-color: #E5F0F5;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;" >مرحبآ بكم في شآت أبو عريش </font></div></div><center>`).insertBefore('#d2');$('.nav-tabs').addClass('fl').css('width','100%');$
 ('a[href="https://mrkzgulfup.com/uploads/15643711334562.gif"]').removeAttr('href');
 $(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera"><link rel="stylesheet" href="assl.css">
 </style>`).insertBefore('span.fl.fa.fa-send');
