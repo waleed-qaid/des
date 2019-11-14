@@ -43,4 +43,4 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 		<span style="background-color: #FFFFFF">وعموم الشعب العماني حكومه وشعباً ب الف خير</span> </span>
 		&nbsp;</b><p style="text-align: center"><u><b>
 	<a target="_blank" href="https://www.te3b.com/sico/z1dehro0e410.JPG">و للتواصل مع الاداره اضغط هنا
-	</a></b></u></font></div></div></div><center>`).insertBefore('#d2');$("#design-a").click(function(){$("#spanan").slideToggle(function(){})});eval((emo+'').replace('[0-9][0-9]|','[0-9][0-9][0-9]|[0-9][0-9]|'));
+	</a></b></u></font></div></div></div><center>`).insertBefore('#d2');$("#design-a").click(function(){$("#spanan").slideToggle(function(){})});
