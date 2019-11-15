@@ -2,6 +2,14 @@
     background-color: #3d1335!important;
 }
 
+.bg {
+    background-color: #7d5275;
+}
+
+.light {
+    background-color: #c19dba;
+}
+
 .hand.nosel.fl.uzr.border {
     border-right: 3px solid #3d1335!important;
     border-left: 3px solid #3d1335!important;
