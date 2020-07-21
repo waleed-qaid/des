@@ -1,7 +1,7 @@
 $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(function(){fixSize();},800);"><div width="99.5%" id="design-a"style="background-color: antiquewhite;color: #105873;border-bottom: 3px solid #105873;border-top: 3px solid #6b5f5f;padding-bottom: 2px;border-radius: 0px 0px 15px 15px;" >
 	<font id="sultan0" class=" sultan11"style="
-    font-family: jazeera-light, FontAwesome; background-color:#000000" >  
-	<font color="#FFFFCC">  <u><b>بمناسبة <span lang="ar-sa">عيد الاضحى</span> / اضغط هنا</b></u></font></font><font id="sultan" class=" sultan11"><u><b> </b></u></font><div id="spanan"style="font-family: jazeera-light, FontAwesome;color: red;text-align: right;display:none;"><p style="text-align: center">
+    font-family: jazeera-light, FontAwesome; >  
+	<font color="#b21f18">  <u><b>بمناسبة <span lang="ar-sa">عيد الاضحى</span> / اضغط هنا</b></u></font></font><font id="sultan" class=" sultan11"><u><b> </b></u></font><div id="spanan"style="font-family: jazeera-light, FontAwesome;color: red;text-align: right;display:none;"><p style="text-align: center">
 			<b><font color="#000080">عروض مخفضه للمشتركين / بمناسبة قرب
 			<span lang="ar-sa">عيد الاضحى المبارك</span><span lang="ar-ye">
 			</span>&nbsp;</font></b></p></p><div style="float: right;padding-right: 20px;">-1</div> درع ماستر ذهبي لمدة <font color="#0000FF"> شهرين<span lang="ar-ye">
