@@ -1,11 +1,10 @@
 $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(function(){fixSize();},800);"><div width="99.5%" id="design-a"style="background-color: antiquewhite;color: #105873;border-bottom: 3px solid #105873;border-top: 3px solid #6b5f5f;padding-bottom: 2px;border-radius: 0px 0px 15px 15px;" >
-	<img src="https://www.te3b.com/dro3/z1bru3sa1h10.gif"><font id="sultan" class=" sultan11"><u><b><font color="#008000"><span lang="ar-ye"> 
-	بمناسبة اليوم الوطني</span> / اضغط  هنا</font> </b></u></font><div id="spanan"style="font-family: jazeera-light, FontAwesome;color: red;text-align: right;display:none;"><p style="text-align: center">
-			<b><font color="#003C00"> <span lang="ar-ye">تخفيضات</span> خاصه 
-			للمشتركين / بمناسبة قـُرب </font><span lang="ar-ye">
-			<font color="#003C00"> اليوم الوطني السعودي</font><font color="#000080"> </font>
-			</span></b><img src="https://www.te3b.com/sico/z1cijg4dgk10.gif"><b><font color="#000080"><span lang="ar-ye">
-			</span>&nbsp;</font></b></p></p><div style="float: right;padding-right: 20px;">-1</div> درع ماستر ذهبي لمدة <font color="#0000FF"> شهرين<span lang="ar-ye">
+	<font id="sultan" class=" sultan11"><u><b><font color="#FF0000"><span lang="ar-ye"> 
+	&nbsp;تم تمديد العروض</span> / اضغط  هنا</font> </b></u></font><div id="spanan"style="font-family: jazeera-light, FontAwesome;color: red;text-align: right;display:none;"><p style="text-align: center">
+			<img src="https://www.te3b.com/sico/z1cf3i2b9o10.gif"><b><font color="#000000"> 
+			تم تمديد العرض بمناسبة العيد الوطني لثورة 26 سبتمبر</font><span lang="ar-ye"><font color="#000080">
+			</font></span></b>
+			<img src="https://www.te3b.com/sico/z1cf3i2b9o10.gif"></p></p><div style="float: right;padding-right: 20px;">-1</div> درع ماستر ذهبي لمدة <font color="#0000FF"> شهرين<span lang="ar-ye">
 			</span> </font><span lang="ar-ye">
 			<font face="Ebrima" color="#000000">
 			<span style="vertical-align: middle"><strike>1600</strike></span></font><font color="#0000FF"> </font>
@@ -36,9 +35,9 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 			<strike><font face="Ebrima" color="#000000">200</font></strike>
 			<span lang="ar-ye">الى</span> <font face="Ebrima">150</font> ريال </p>
 	<p style="text-align: center"><b><u><font color="#0000FF">ينتهي العرض 
-	<span lang="ar-ye">يوم الاربعاء مساءاً</span></font></u></font></b><p style="text-align: center">
-		<img src="https://www.te3b.com/dro3/z1bru38ccg10.png"><b><font color="#008000"><span lang="ar-ye">
-		</span>وكل عام </font><span lang="ar-ye"><font color="#008000">وعموم 
-		الشعب السعودي حكومه وشعباً ب الف خير</font> </span>&nbsp;</b><p style="text-align: center"><u><b>
+	<span lang="ar-ye">نهاية شهر سبتمبرً</span></font></u></font></b><p style="text-align: center">
+		<b><span lang="ar-ye">
+		&nbsp;وكل عام والشعب اليمني كافه ب الف خير&nbsp;
+		</span>&nbsp;</b><p style="text-align: center"><u><b>
 	<a target="_blank" href="https://www.te3b.com/sico/z1dehro0e410.JPG">و للتواصل مع الاداره اضغط هنا
 	</a></b></u></font></div></div></div><center>`).insertBefore('#d2');$("#design-a").click(function(){$("#spanan").slideToggle(function(){})});
