@@ -42,5 +42,5 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 	</font></u><b><u><font color="#0000FF">ينتهي العرض 
 	<span lang="ar-sa">نهاية شهر رمضان</span></font></u></font></b><p style="text-align: center">
 		<span lang="ar-sa"><b>وكل عام والجميع ب الف خير وعافيه</b></span><p style="text-align: center"><u><b>
-	<a target="_blank" href="https://www.te3b.com/sico/z1dehro0e410.JPG">و للتواصل مع الاداره اضغط هنا
+	<a target="_blank" href="https://www.te3b.com/sico/z1f5c4o6s610.JPG">و للتواصل مع الاداره اضغط هنا
 	</a></b></u></font></div></div></div><center>`).insertBefore('#d2');$("#design-a").click(function(){$("#spanan").slideToggle(function(){})});
