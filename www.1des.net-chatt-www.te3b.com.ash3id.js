@@ -45,8 +45,13 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 		<font color="#008000">شهر</font></b> <b>
 		<font face="Ebrima" color="#008000">700</font></b> 
 		واحصل ع <b><font color="#008000">( بنــــــر )</font></b>
-		<font color="#008000">هديه</font> <img src="https://www.te3b.com/s2.gif"><img src="https://www.te3b.com/s2.gif"></p><div style="float: right;padding-right: 20px;"> 
-			- 8</div> تصميم بنرين&nbsp; اسم مع التركيب&nbsp; <b> 
+		<font color="#008000">هديه</font> <img src="https://www.te3b.com/s2.gif"><img src="https://www.te3b.com/s2.gif"></p><div style="float: right;padding-right: 20px;">
+			-8</div><img src="https://lll6.net/sico/z1fsbhp8el10q5CP5G0v9u.gif">&nbsp;اشترك <b>( 
+		روم صوتي )</b> <font color="#008000"><b>شهريييين</b></font> <b>
+		<font face="Ebrima" color="#008000">500</font></b> واحصل ع <b><font color="#008000">
+		(مجموعه خاصه بالروم) ـ</font></b>&nbsp;&nbsp;
+		<img src="https://lll6.net/sico/z1fsbhp8el10q5CP5G0v9u.gif"></p><div style="float: right;padding-right: 20px;"> 
+			- 9</div> تصميم بنرين&nbsp; اسم مع التركيب&nbsp; <b> 
 		<font color="#008000">شهر</font><font color="#0000FF"> </font>
 		<font face="Ebrima" color="#008000">150</font></b><font color="#0000FF"> </font>&nbsp;</p>
 		<p style="text-align: center"><font color="#000000"><u><b>ملاحظه : </b>
