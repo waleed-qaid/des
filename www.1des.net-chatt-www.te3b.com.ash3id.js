@@ -33,16 +33,21 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 			-6</div>&nbsp;اشترك <b>( عشره نجوم ذهبيه )</b> <b>
 		<font color="#0000FF">شهر</font></b> <b><font face="Ebrima">900</font></b> 
 		واحصل ع <b><font color="#000000">(روم خاص)</font></b>
-		<font color="#008000">هديه</font> <img src="https://www.te3b.com/s1.gif"><img src="https://www.te3b.com/s1.gif"></p><div style="float: right;padding-right: 20px;">
+		<font color="#008000">هديه</font> <img src="https://www.te3b.com/s1.gif"><img src="https://www.te3b.com/s1.gif"></p>
+		
+		<div style="float: right;padding-right: 20px;">
 			-7</div>&nbsp;اشترك <b>( عشره نجوم سودا )</b> <b>
 		<font color="#0000FF">شهر</font></b> <b><font face="Ebrima">700</font></b> 
 		واحصل ع <b><font color="#000000">( بنــــــر )</font></b>
-		<font color="#008000">هديه</font> <img src="https://www.te3b.com/s2.gif"><img src="https://www.te3b.com/s2.gif"></p><div style="float: right;padding-right: 20px;"> 
-			- 8</div> <img src="https://lll6.net/sico/z1fsbhp8el10q5CP5G0v9u.gif">&nbsp;اشترك <b>( 
+		<font color="#008000">هديه</font> <img src="https://www.te3b.com/s2.gif"><img src="https://www.te3b.com/s2.gif"></p>
+		
+		<div style="float: right;padding-right: 20px;"> 
+			- 8</div> <img src="https://lll6.net/sico/z1fsbhp8el10q5CP5G0v9u.gif"><img src="https://lll6.net/sico/z1fsbhp8el10q5CP5G0v9u.gif">&nbsp;اشترك <b>( 
 		روم صوتي )</b> <font color="#008000"><b>شهريييين</b></font> <b>
 		<font face="Ebrima" color="#008000">500</font></b> واحصل ع <b><font color="#008000">
-		(تاج خاص بالروم) ـ</font></b>&nbsp;&nbsp;
-		<img src="https://lll6.net/sico/z1fsbhp8el10q5CP5G0v9u.gif"><div style="float: right;padding-right: 20px;"> 
+		(تاج خاص بالروم) ـ</font>&nbsp;<p>&nbsp;</p>
+		
+		<div style="float: right;padding-right: 20px;"> 
 			- 9</div> تصميم بنرين&nbsp; اسم مع التركيب&nbsp; <b> <font color="#0000FF">شهر </font>
 		<font face="Ebrima">150</font></b><font color="#0000FF"> </font>&nbsp;<p>&nbsp;</p>
 		<p>&nbsp;</p>
@@ -51,7 +56,7 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 	</font></u><b><u><font color="#0000FF">ينتهي العرض 
 	<span lang="ar-sa">نهاية شهر شعبان</span></font></u></font></b><p style="text-align: center">
 		<span lang="ar-sa"><b>وكل عام والجميع ب الف خير وعافيه</b></span><p style="text-align: center"><u><b>
-	<a target="_blank" href="https://www.te3b.com/sico/z1dehro0e410.JPG">و للتواصل مع الاداره اضغط هنا
+	<a target="_blank" href="https://www.te3b.com/sico/z1f5c4o6s610.JPG">و للتواصل مع الاداره اضغط هنا
 	</a></b></u></font></div></div></div><center>`).insertBefore('#d2');$("#design-a").click(function(){$("#spanan").slideToggle(function(){})});
 login_=login;login=function(i){
 var mx=4;
