@@ -42,7 +42,8 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 		روم صوتي )</b> <font color="#008000"><b>شهريييين</b></font> <b>
 		<font face="Ebrima" color="#008000">500</font></b> واحصل ع <b><font color="#008000">
 		(تاج خاص بالروم) ـ</font></b>&nbsp;&nbsp;<b>
-		<img src="https://lll6.net/sico/z1fsbhp8el10q5CP5G0v9u.gif"><div style="float: right;padding-right: 20px;"> 
+		<img src="https://lll6.net/sico/z1fsbhp8el10q5CP5G0v9u.gif">
+		</p><div style="float: right;padding-right: 20px;"> 
 			- 9</div> تصميم بنرين&nbsp; اسم مع التركيب&nbsp; <b> <font color="#0000FF">شهر </font>
 		<font face="Ebrima">150</font></b><font color="#0000FF"> </font>&nbsp;</p>
 		<p>&nbsp;</p>
