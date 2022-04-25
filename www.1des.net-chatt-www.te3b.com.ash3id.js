@@ -44,7 +44,7 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 		(تاج خاص بالروم) ـ</font></b>&nbsp;&nbsp;<b>
 		<img src="https://lll6.net/sico/z1fsbhp8el10q5CP5G0v9u.gif"><div style="float: right;padding-right: 20px;"> 
 			- 9</div> تصميم بنرين&nbsp; اسم مع التركيب&nbsp; <b> <font color="#0000FF">شهر </font>
-		<font face="Ebrima">150</font></b><font color="#0000FF"> </font>&nbsp;<p>&nbsp;</p>
+		<font face="Ebrima">150</font></b><font color="#0000FF"> </font>&nbsp;</p>
 		<p>&nbsp;</p>
 		</p>
 		<p style="text-align: center"><u><font color="#0000FF"><b>ملاحظه : </b>
