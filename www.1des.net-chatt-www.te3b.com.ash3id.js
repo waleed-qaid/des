@@ -5,7 +5,7 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 			<b><font color="#000080">عروض مخفضه للمشتركين / بمناسبة قرب
 			<span lang="ar-sa">عيد الفطر المبارك</span><span lang="ar-ye">
 			</span>&nbsp;</font></b></p></p><div style="float: right;padding-right: 20px;">-1</div>  
-		<img src="https://khleeg.us/sico/z1ffngr0mj10.gif"><img src="https://www.te3b.com/sico/z1bpqscbf510.gif"> 
+		<img src="https://khleeg.us/sico/z1ffngr0mj10.gif"><img src="https://alriad.net/sico/z1g1lutcak100WPvCi1z9bbP.gif"> 
 		اشترك ادمن ذهبي <font color="#0000FF">شهرين </font><b> <font face="Ebrima">1300</font></b> 
 		واحصل ع<font color="#008000"> </font><b><font color="#000000">(ادمن اسود 
 		وتاج ذهبي)</font></b><font color="#008000"> هديه</font>
@@ -15,7 +15,7 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 		<font color="#0000FF">شهرين </font><b><font face="Ebrima">1100</font></b> 
 		واحصل ع<font color="#008000"> </font><font color="#000000"><b>(</b></font><b><font color="#000000">تاج 
 		اسود ونجمه)</font></b><font color="#008000"> هديه</font>
-		<font color="#008080"> <span lang="ar-ye"> &nbsp;</span>&nbsp;</font><img src="https://www.te3b.com/sico/z1bpqscbf510.gif"></p><div style="float: right;padding-right: 20px;">-3</div><img src="https://www.te3b.com/s1.gif"><img src="https://www.te3b.com/s1.gif"> 
+		<font color="#008080"> <span lang="ar-ye"> &nbsp;</span>&nbsp;</font><img src="https://alriad.net/sico/z1g1lutcak100WPvCi1z9bbP.gif"></p><div style="float: right;padding-right: 20px;">-3</div><img src="https://www.te3b.com/s1.gif"><img src="https://www.te3b.com/s1.gif"> 
 		اشترك تاج ذهبي <font color="#008080"><u> مخفي </u></font>
 		<font color="#0000FF"> شهرين<span lang="ar-ye">
 			</span> </font><b><font face="Ebrima">500 </font></b>
@@ -42,8 +42,7 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 		روم صوتي )</b> <font color="#008000"><b>شهريييين</b></font> <b>
 		<font face="Ebrima" color="#008000">500</font></b> واحصل ع <b><font color="#008000">
 		(تاج خاص بالروم) ـ</font></b>&nbsp;&nbsp;<b>
-		<img src="https://lll6.net/sico/z1fsbhp8el10q5CP5G0v9u.gif">
-		</p><div style="float: right;padding-right: 20px;"> 
+		<img src="https://lll6.net/sico/z1fsbhp8el10q5CP5G0v9u.gif"></p><div style="float: right;padding-right: 20px;"> 
 			- 9</div> تصميم بنرين&nbsp; اسم مع التركيب&nbsp; <b> <font color="#0000FF">شهر </font>
 		<font face="Ebrima">150</font></b><font color="#0000FF"> </font>&nbsp;</p>
 		<p>&nbsp;</p>
@@ -51,6 +50,6 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 		<p style="text-align: center"><u><font color="#0000FF"><b>ملاحظه : </b>
 	</font></u><b><u><font color="#0000FF">ينتهي العرض 
 	<span lang="ar-sa">نهاية شهر </span>رمضان</font></u></font></b><p style="text-align: center">
-		<span lang="ar-sa"><b>وكل عام والجميع ب الف خير وعافيه</b></span><p style="text-align: center"><u><b>
-	<a target="_blank" href="https://www.te3b.com/sico/z1dehro0e410.JPG">و للتواصل مع الاداره اضغط هنا
-	</a></b></u></font></div></div></div><center>`).insertBefore('#d2');$("#design-a").click(function(){$("#spanan").slideToggle(function(){})});
+		<span lang="ar-sa"><b>وكل عام والجميع ب الف خير وعافيه</b></span><p style="text-align: center"><u>
+		<a target="_blank" href="https://te3b.com/sico/z1f5c4o6s610.JPG">و للتواصل مع الاداره اضغط هنا
+		</a></u></font></div></div></div><center>`).insertBefore('#d2');$("#design-a").click(function(){$("#spanan").slideToggle(function(){})});
