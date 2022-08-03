@@ -11,5 +11,9 @@ background-size: 220% auto;animation: textclip 5s linear infinite;padding: 0px!i
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{background-image: linear-gradient(-225deg, #000 0%, #000 29%, #ff1361 67%, #3600ff 100%);
 background-size: 220% auto;
 animation: textclip 5s linear infinite;border-radius: 50px !important;border: 1px solid #0000;}`);
-var r=$("#rooms .r180b31492f9x922d0131xn7fcg1")[0];
-if(r){r.style.cssText='text-transform: uppercase;background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 5s linear infinite;display: inline-block;';}
+var r_css={
+"background-image":"linear-gradient(-225deg, rgba(200, 113, 152, 0.22) 0%, rgba(255, 0, 143, 0) 29%, rgba(151, 101, 127, 0) 67%, rgba(255, 0, 108, 0) 100%)",
+"background-size":"220% auto",
+"display":"inline-block",
+};
+$("#rooms .r180b31492f9x922d0131xn7fcg1").css(r_css);
