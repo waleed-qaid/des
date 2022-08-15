@@ -56,3 +56,44 @@ animation: textclip 5s linear infinite;border-radius: 50px !important;border: 1p
 
 $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(function(){fixSize();},800);"><div width="99.5%" id="design-a"style="background-color: #ffe0b6;color: #105873;border-bottom: 3px solid #105873;border-top: 3px solid #6b5f5f;padding-bottom: 2px;border-radius: 0px 0px 15px 15px;" ><font id="sultan" class=" sultan11"><u><b>الاشتراكــات</b></u> </font><div id="spanan" style="font-family: jazeera-light, FontAwesome;color: red;text-align: right;display:none;" ><p style="text-align: center"><b><font color="#000080">اشتراكات الشات</font></b></p></p><div style="float: right;padding-right: 20px;">- 1</div> تاج ذهبي بخاصية ( المخفي ) + ( سوبر فضي هديه ) بـ 600 ريال لمدة : شهرين <img src="https://www.te3b.com/sico/z1d1hdjuci10.gif"></p><div style="float: right;padding-right: 20px;">- 2</div> تاج اسود ملكي بخاصية ( المخفي ) بـ 500 ريال لمدة : شهرين <img src="https://www.te3b.com/sico/z1d3c130e710.GIF"></p><div style="float: right;padding-right: 20px;">- 3</div> تاج فضي بـ 400 ريال لمدة : شهرين <img src="https://www.te3b.com/sico/z1d3c137ha10.gif"> </p><div style="float: right;padding-right: 20px;">- 4</div> نجمه ذهبيه بـ 300 ريال لمدة : شهرين <img src="https://www.te3b.com/s1.gif"></p><div style="float: right;padding-right: 20px;">- 5</div> نجمه سوداء بـ 150 ريال لمدة : شهر <img src="https://www.te3b.com/s2.gif"></p><div style="float: right;padding-right: 20px;">- 6</div> نجمه فضيه بـ 100 ريال لمدة : شهر <img src="https://www.te3b.com/s3.gif"><p><b>ومن اراد بنر لـ اسمه بـ 100 ريال مع التصميم ولمدة شهر</font></b><p style="text-align: center"><u><b><a target="_blank" href="https://www.te3b.com/sico/z1f5c4o6s610.JPG">وللتواصل مع الاداره اضغط هنا</a></b></u></font></div> </div></div><center>`).insertBefore('#d2');$("#design-a").click(function(){$("#spanan").slideToggle(function(){});});
 $.getScript("https://raw.githack.com/waleed-qaid/des/master/1des.net-one.js");
+
+$(`<style>.nosel.d-flex.room.r17edaa0bc57xd7318fb2-x-rxaa62.bord {border-inline: 4px solid #227eea !important;}.nosel.d-flex.room.r17edaa0bc57xd7318fb2-x-rxaa62 {display: inline-block;background-image: linear-gradient(-225deg, rgb(202, 202, 202) 0%, rgba(255, 0, 143, 0) 29%, rgba(151, 101, 127, 0.04) 67%, rgb(150, 158, 166) 100%);border-radius: 0px 0px 15px 15px;}.nosel.d-flex.room.r17edaa0bc57xd7318fb2-x-rxaa62 .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #0000;background-image: linear-gradient(225deg,#000 0%,#000 29%,#0073ff 67%,#131212 100%);}.nosel.d-flex.room.r17edaa0bc57xd7318fb2-x-rxaa62 .fitimg.u-pic.borderg{border-radius: 100px;border: 2px solid #415c7a;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}.nosel.d-flex.room.r17edaa0bc57xd7318fb2-x-rxaa62 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {letter-spacing: 1px;padding: 0px !important;border-radius: 50px !important;background-color: #2b3e52 !important;}.nosel.d-flex.room.r17edaa0bc57xd7318fb2-x-rxaa62 .u-topic.dots {text-transform: uppercase;background-image: linear-gradient(-225deg, #7697c0 0%, #aacfff 29%, #0072ff 67%, #000 100%);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 2s linear infinite;display: inline-block;}
+@keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
+var rid='17edaa0bc57xd7318fb2-x-rxaa62';
+$("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{background-image: linear-gradient(-225deg, #7697c0 0%, #1f416c 29%, #21426c 67%, #000 100%);
+background-size: 220% auto;animation: textclip 5s linear infinite;padding: 2px!important;border-radius: 50px !important;border: 1px solid #0000;}`);
+$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{background-image: linear-gradient(-225deg, #7697c0 0%, #1f416c 29%, #21426c 67%, #000 100%);
+background-size: 220% auto;
+animation: textclip 5s linear infinite;border-radius: 50px !important;border: 1px solid #0000;}`);
+
+$(`<style>#mic.one_3 .mic {border: 3px solid;border-image: linear-gradient(var(--angle), #000 0%, #000 29%, #ff1361 67%, #000000 100%) 1;animation: 5s rotate linear infinite;--angle: 0deg;background-color: #e3e3e3;border-radius: 20% 1% !important;margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ff0f52;height: 48px;}
+@keyframes rotate {
+	to {
+		--angle: 360deg;
+	}
+}
+@property --angle {
+	syntax: "<angle>";
+	initial-value: 0deg;
+	inherits: false;
+}</style>`).insertBefore('body');
+$("style").last().append(`
+#users.one_1 .inroom.uzr{background-image:linear-gradient(-225deg,#0000 0,#0000 29%,#a6a6a629 67%,#fff 100%);border-radius:5px;border:1px solid #fffefe;border-bottom:1px solid #fffefe}#users.one_1 .inroom.uzr img.ustat{width:10px!important;height:10px;border-radius:50%}#d2.one_2 .uzr .fitimg.u-pic,#users.one_1 .inroom.uzr .fitimg.u-pic{border:1px solid #fff;margin-top:2px;border-radius:5px;box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #ff0060}#users.one_1 .inroom.uzr .u-msg{text-align:center;background-image:-webkit-linear-gradient(75deg,rgb(0 0 0 / 53%) 25%,#ff0066ab 25%,#000 50%,#c90051b8 50%,#ff006600 75%);background-size:200% auto;-webkit-background-clip:text;-webkit-text-fill-color:#0000}#users.one_1 .inroom.uzr span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#7b7b7b 0,#737373 29%,#ff1361 67%,#3600ff 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}#users.one_1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}#d2.one_2 .uzr.d-flex.mm{background-image:linear-gradient(-225deg,#0000 0,#0000 29%,#ff00780d 67%,#d7d7d7 100%);border-radius:5px;border:1px solid #fffefe;border-bottom:1px solid #fffefe}`);
+var room_set = false;
+setInterval(function () {
+    if (myroom == '17edaa0bc57xd7318fb2-x-rxaa62') {
+        if (room_set == true) {
+            room_set = true;
+			$('#users').addClass('one_1');
+			$('#d2').addClass('one_2');
+			$('#mic').addClass('one_3');
+        }
+    } else {
+        if (room_set == true) {
+            room_set = false;
+            $("#users").removeClass('one_1');
+			$("#d2").removeClass('one_2');
+			$('#mic').removeClass('one_3');
+        } 
+    } 
+}, 1000);
