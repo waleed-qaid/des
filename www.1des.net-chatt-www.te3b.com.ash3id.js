@@ -207,7 +207,7 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 		<font face="Ebrima" color="#008000">150</font></b><font color="#0000FF"> </font>&nbsp;</p>
 		</p>
 		<p style="text-align: center"><u><font color="#0000FF">ملاحظه : ينتهي العرض 
-		24-09-2022</font></u></font><p style="text-align: center">
+		 نهاية شهر سبتمبر</font></u></font><p style="text-align: center">
 		<span lang="ar-sa"><font color="#008000">وكل عام وعموم الشعب السعودي 
 		حكومه وشعباً ب الف خير</font></span><p style="text-align: center"><u>
 		<a target="_blank" href="https://te3b.com/sico/z1f5c4o6s610.JPG">و للتواصل مع الاداره اضغط هنا
