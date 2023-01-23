@@ -194,7 +194,6 @@ background-size: 100%;
   background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
   color: transparent !important;
   background-size: 90% 100%;
-  margin-top: 12px;
 }
 #users .uzr.athb1 .ustat {
   width: 54px !important;
