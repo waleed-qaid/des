@@ -26,6 +26,7 @@ $("style").last().append(`
   background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
   color: transparent !important;
   background-size: 90% 100%;
+  border-bottom: 1px solid #fff0;
 }
 #users .uzr.aiah1 .ustat {
   width: 54px !important;
@@ -111,6 +112,7 @@ background-size: 100%;
   background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
   color: transparent !important;
   background-size: 90% 100%;
+  border-bottom: 1px solid #fff0;
 }
 #users .uzr.shaarh1 .ustat {
   width: 10px !important;
@@ -195,6 +197,7 @@ background-size: 100%;
   color: transparent !important;
   background-size: 90% 100%;
   margin-top: 12px;
+  border-bottom: 1px solid #fff0;
 }
 #users .uzr.athb1 .ustat {
     width: 10px !important;
