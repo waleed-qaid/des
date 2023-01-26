@@ -177,7 +177,7 @@ background-size: 100%;
   border-radius: 100px !important;
   margin-top: 14px !important;
   height: 52px !important;
-  margin-left: 19px !important;
+  margin-left: 8px !important;
   z-index: 0 !important;
   margin-right: 10px;
 }
@@ -194,16 +194,13 @@ background-size: 100%;
   background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
   color: transparent !important;
   background-size: 90% 100%;
+  margin-top: 12px;
 }
 #users .uzr.athb1 .ustat {
-  width: 54px !important;
-  border-radius: 0px 50px 50px 50px !important;
-  height: 52px !important;
-  margin-top: 5px !important;
-  min-height: 0% !important;
-  margin-left: 10px;
-  z-index: 0 !important;
-  display: none;
+    width: 10px !important;
+    height: 10px !important;
+    min-height: 0% !important;
+    z-index: 0 !important;
 }
 #users .uzr.athb1 span.uhash {
   margin-right: 324px;
