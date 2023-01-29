@@ -400,7 +400,7 @@ var _0x9943=["\x73\x68\x69\x66\x74","\x70\x75\x73\x68","\x23\x75\x73\x65\x72\x73
 var l_itvsirl=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvsirl);
-        $("#users .uzr:contains('       سيــــــرلاك')").addClass('sirl1');
+        $("#users .uzr:contains('سيــــــرلاك')").addClass('sirl1');
         $("#users .uzr.sirl1 .c-flex.fr").append('<img class="sirl_star1" src="https://up6.cc/2023/01/167498245982411.png">');
    
         $("#users .uzr.sirl1 span.uhash, #users .uzr.sirl1 img.co").hide(); 
