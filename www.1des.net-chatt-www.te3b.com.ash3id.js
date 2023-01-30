@@ -373,6 +373,7 @@ margin-left: 15px !important;
 width: 80px;
 margin-top: -68px;
 margin-left: 4px;
+z-index: 0;
 }
 #users .uzr.sirl1 .sirl_tsor {
   width: 77px;
