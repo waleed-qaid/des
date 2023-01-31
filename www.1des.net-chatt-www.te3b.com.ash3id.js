@@ -388,7 +388,24 @@ var l_itvshaarh=setInterval(function(){
         $("#users .uzr.shaarh1 span.uhash, #users .uzr.shaarh1 img.co").hide(); 
 
     }
-}, 10000);
+}, 15000);
+
+
+
+
+var l_itv99=setInterval(function(){
+    if(myid!=null){
+        clearInterval(l_itv99);
+        $("#users .uzr:contains('K$A')").addClass('ksa1');
+        $("#users .uzr.ksa1 .c-flex.fr").append('<img class="My_star1" src="https://up6.cc/2023/01/167474188597371.png">');
+	$("#users .uzr.ksa1 .c-flex.fr").after('<div id="my_mood1" class="label label-primary" style="font-size: 12px !important;margin-bottom: 1px;display: inline-block;width: 60%;margin-top: 0px;height: 22px;cursor: pointer;border-radius: 50px;padding: 3px;color: black;background-image: linear-gradient(-225deg, #d9d9d9 0%, #b7b7b7 29%, #c1bebe 67%, #dfdfdf 100%);" href="https://1des.net/">حظ إلعيّون .. اللي بقربك تهنت</div>');
+    
+        $("#users .uzr.ksa1 span.uhash, #users .uzr.ksa1 img.co").hide(); 
+    }
+}, 15000);
+
+
+
 
 var l_itvsirl=setInterval(function(){
     if(myid!=null){
@@ -399,4 +416,4 @@ var l_itvsirl=setInterval(function(){
         $("#users .uzr.sirl1 span.uhash, #users .uzr.sirl1 img.co").hide(); 
 
     }
-}, 10000);
+}, 15000);
