@@ -1,4 +1,4 @@
-$.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-one.js");
+$.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-one1.js");
 $.getScript("https://raw.githack.com/waleed-qaid/te3b/main/%E2%80%8F%E2%80%8Fwww.1des.net-chatt-one-design-t.js");
 
 
