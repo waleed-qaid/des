@@ -20,7 +20,7 @@ $("style").last().append(`
   margin-left: 5px;
 }
 #users .uzr.stl1_1 img.u-ico {
-    margin-left: 179px;
+    margin-left: 174px;
 }
 #users .uzr.stl1_1 .u-msg {
     text-align: right;
@@ -29,9 +29,9 @@ $("style").last().append(`
     font-size: 89% !important;
     -webkit-text-fill-color: #fff0;
     background-size: 130% 100%;
-    margin-bottom: 7px;
+    margin-bottom: 4px;
     margin-top: 7px;
-    width: 295px;
+    width: 230px;
     float: right;
     margin-right: 7px;
     background-image: linear-gradient(-225deg, #fff 0%, #fff 29%, #eba41a 67%, #ffa800 100%);
@@ -93,7 +93,7 @@ $("style").last().append(`
     width: 20px;
     margin-top: 0px;
     cursor: pointer;
-    margin-left: -285px;
+    margin-left: -279px;
 }
 div#my_mood1_1 {
     display: none!important;
@@ -120,9 +120,9 @@ div#my_mood1_2 {
     font-size: 89% !important;
     -webkit-text-fill-color: #fff0;
     background-size: 130% 100%;
-    margin-bottom: 7px;
+    margin-bottom: 4px;
     margin-top: 7px;
-    width: 295px;
+    width: 230px;
     float: right;
     margin-right: 7px;
     background-image: linear-gradient(-225deg, #fff 0%, #fff 29%, #eba41a 67%, #ffa800 100%);
@@ -138,7 +138,7 @@ div#my_mood1_2 {
   display: none;
 }
 #users .uzr.stl1_2 img.u-ico {
-  margin-left: 179px;
+  margin-left: 174px;
 }
 #users .uzr.stl1_2 span.uhash {
   margin-right: 324px;
@@ -187,7 +187,7 @@ div#my_mood1_2 {
     width: 20px;
     margin-top: 0px;
     cursor: pointer;
-    margin-left: -285px;
+    margin-left: -279px;
 }
 
 
@@ -215,7 +215,7 @@ div#my_mood1_2 {
   color: transparent !important;
   background-size: 90% 100%;
   border-bottom: 1px solid #fff0;
-  margin-bottom: 7px;
+  margin-bottom: 6px;
 }
 #users .uzr.abd_net1 .ustat {
   width: 54px !important;
@@ -290,7 +290,7 @@ div#my_mood1_2 {
   color: transparent !important;
   background-size: 90% 100%;
   border-bottom: 1px solid #fff0;
-    margin-bottom: 7px;
+    margin-bottom: 6px;
 }
 #users .uzr.abd_net2 .ustat {
   width: 54px !important;
