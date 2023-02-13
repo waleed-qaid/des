@@ -13,23 +13,28 @@ $("style").last().append(`
   height: 52px !important;
   margin-left: 12px!important;
   z-index: 0 !important;
+  display: none;
 }
 #users .uzr.stl1_1 .d-flex.dots {
   margin-top: 7px !important;
   margin-left: 5px;
 }
 #users .uzr.stl1_1 img.u-ico {
-    margin-left: 9px;
+    margin-left: 190px;
 }
 #users .uzr.stl1_1 .u-msg {
-  text-align: center;
-  -webkit-background-clip: text;
-  padding: 1px !important;
-  font-size: 89% !important;
-  -webkit-text-fill-color: #0000;
-  background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
-  color: transparent !important;
-  background-size: 90% 100%;
+    text-align: right;
+    -webkit-background-clip: text;
+    padding: 1px !important;
+    font-size: 89% !important;
+    -webkit-text-fill-color: #fff0;
+    background-size: 130% 100%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 295px;
+    float: right;
+    margin-right: 7px;
+    background-image: linear-gradient(-225deg, #fff 0%, #fff 29%, #eba41a 67%, #ffa800 100%);
 }
 #users .uzr.stl1_1 .ustat {
   width: 54px !important;
@@ -52,12 +57,13 @@ $("style").last().append(`
   margin-right: 282px;
 }
 #users .uzr.stl1_1 {
-	margin-bottom: 3px !important;
+    margin-bottom: 3px !important;
     margin-top: 3px !important;
-    border-radius: 0px;
-    background-image: url(https://up6.cc/2023/02/167625867228221.png);
+    border-radius: 3px;
+    background-image: url(https://up6.cc/2023/02/167629559166641.png);
     background-size: 100%;
     border: 1px solid #ffd74e;
+    box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 4px #000000;
 }
 #users .uzr.stl1_1 .c-flex.fr {
   margin-left: -4px!important;
@@ -73,19 +79,27 @@ $("style").last().append(`
 	width: 84px;
     margin-top: -73px;
     height: 79px;
+	display: none;
 }
 #users .uzr.stl1_1 .My_tsor1_1 {
   width: 79px;
   margin-top: -45px;
   z-index: 0;
   margin-left: 44px;
+  display: none;
 }
 #users .uzr.stl1_1 .My_vedio1_1 {
-  float: right;
-  width: 20px;
-  margin-top: 0px;
-  margin-right: 5px;
-  cursor: pointer;
+    float: left;
+    width: 20px;
+    margin-top: 0px;
+    cursor: pointer;
+    margin-left: -285px;
+}
+div#my_mood1_1 {
+    display: none!important;
+}
+div#my_mood1_2 {
+    display: none!important;
 }
 #users .uzr.stl1_2 .fitimg.u-pic {
   border-radius: 100px !important;
@@ -93,20 +107,25 @@ $("style").last().append(`
   height: 52px !important;
   margin-left: 12px!important;
   z-index: 0 !important;
+  display: none;
 }
 #users .uzr.stl1_2 .d-flex.dots {
   margin-top: 7px !important;
   margin-left: 5px;
 }
 #users .uzr.stl1_2 .u-msg {
-  text-align: center;
-  -webkit-background-clip: text;
-  padding: 1px !important;
-  font-size: 89% !important;
-  -webkit-text-fill-color: #0000;
-  background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
-  color: transparent !important;
-  background-size: 90% 100%;
+    text-align: right;
+    -webkit-background-clip: text;
+    padding: 1px !important;
+    font-size: 89% !important;
+    -webkit-text-fill-color: #fff0;
+    background-size: 130% 100%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 295px;
+    float: right;
+    margin-right: 7px;
+    background-image: linear-gradient(-225deg, #fff 0%, #fff 29%, #eba41a 67%, #ffa800 100%);
 }
 #users .uzr.stl1_2 .ustat {
   width: 54px !important;
@@ -119,7 +138,7 @@ $("style").last().append(`
   display: none;
 }
 #users .uzr.stl1_2 img.u-ico {
-    margin-left: 9px;
+  margin-left: 190px;
 }
 #users .uzr.stl1_2 span.uhash {
   margin-right: 324px;
@@ -132,12 +151,13 @@ $("style").last().append(`
   margin-right: 282px;
 }
 #users .uzr.stl1_2 {
-	margin-bottom: 3px !important;
+    margin-bottom: 3px !important;
     margin-top: 3px !important;
-    border-radius: 0px;
-    background-image: url(https://up6.cc/2023/02/167625867228221.png);
+    border-radius: 3px;
+    background-image: url(https://up6.cc/2023/02/167629559166641.png);
     background-size: 100%;
     border: 1px solid #ffd74e;
+    box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 4px #000000;
 }
 #users .uzr.stl1_2 .c-flex.fr {
   margin-left: -4px!important;
@@ -153,19 +173,21 @@ $("style").last().append(`
 	width: 84px;
     margin-top: -73px;
     height: 79px;
+	display: none;
 }
 #users .uzr.stl1_2 .My_tsor1_2 {
   width: 79px;
   margin-top: -45px;
   z-index: 0;
   margin-left: 44px;
+  display: none;
 }
 #users .uzr.stl1_2 .My_vedio1_2 {
-  float: right;
-  width: 20px;
-  margin-top: 0px;
-  margin-right: 5px;
-  cursor: pointer;
+    float: left;
+    width: 20px;
+    margin-top: 0px;
+    cursor: pointer;
+    margin-left: -285px;
 }
 
 
@@ -193,7 +215,7 @@ $("style").last().append(`
   color: transparent !important;
   background-size: 90% 100%;
   border-bottom: 1px solid #fff0;
-  margin-bottom: 7px;
+  margin-bottom: 6px;
 }
 #users .uzr.abd_net1 .ustat {
   width: 54px !important;
@@ -268,7 +290,7 @@ $("style").last().append(`
   color: transparent !important;
   background-size: 90% 100%;
   border-bottom: 1px solid #fff0;
-    margin-bottom: 7px;
+    margin-bottom: 6px;
 }
 #users .uzr.abd_net2 .ustat {
   width: 54px !important;
