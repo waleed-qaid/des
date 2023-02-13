@@ -1,4 +1,4 @@
-$.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-one1.js");
+$.getScript("https://cdn.statically.io/gh/waleed-qaid/te3b/main/1des.net-one2.js");
 $.getScript("https://raw.githack.com/waleed-qaid/te3b/main/%E2%80%8F%E2%80%8Fwww.1des.net-chatt-one-design-t.js");
 
 
@@ -17,6 +17,9 @@ $("style").last().append(`
 #users .uzr.stl1_1 .d-flex.dots {
   margin-top: 7px !important;
   margin-left: 5px;
+}
+#users .uzr.stl1_1 img.u-ico {
+    margin-left: 9px;
 }
 #users .uzr.stl1_1 .u-msg {
   text-align: center;
@@ -49,12 +52,12 @@ $("style").last().append(`
   margin-right: 282px;
 }
 #users .uzr.stl1_1 {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-  margin-bottom: 3px !important;
-  margin-top: 2px !important;
-  border-radius: 4px;
-  background-size: cover;
-  border: 1px solid #fff;
+	margin-bottom: 3px !important;
+    margin-top: 3px !important;
+    border-radius: 0px;
+    background-image: url(https://up6.cc/2023/02/167625867228221.png);
+    background-size: 100%;
+    border: 1px solid #ffd74e;
 }
 #users .uzr.stl1_1 .c-flex.fr {
   margin-left: -4px!important;
@@ -67,15 +70,15 @@ $("style").last().append(`
   margin-left: 5px;
 }
 #users .uzr.stl1_1 .My_star1_1 {
-  width: 84px;
-  margin-top: -74px;
-  height: 80px;
+	width: 84px;
+    margin-top: -73px;
+    height: 79px;
 }
 #users .uzr.stl1_1 .My_tsor1_1 {
   width: 79px;
   margin-top: -45px;
   z-index: 0;
-  margin-left: 36px;
+  margin-left: 44px;
 }
 #users .uzr.stl1_1 .My_vedio1_1 {
   float: right;
@@ -115,6 +118,9 @@ $("style").last().append(`
   z-index: 0 !important;
   display: none;
 }
+#users .uzr.stl1_2 img.u-ico {
+    margin-left: 9px;
+}
 #users .uzr.stl1_2 span.uhash {
   margin-right: 324px;
   margin-top: 24px;
@@ -126,12 +132,12 @@ $("style").last().append(`
   margin-right: 282px;
 }
 #users .uzr.stl1_2 {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-  margin-bottom: 3px !important;
-  margin-top: 2px !important;
-  border-radius: 4px;
-  background-size: cover;
-  border: 1px solid #fff;
+	margin-bottom: 3px !important;
+    margin-top: 3px !important;
+    border-radius: 0px;
+    background-image: url(https://up6.cc/2023/02/167625867228221.png);
+    background-size: 100%;
+    border: 1px solid #ffd74e;
 }
 #users .uzr.stl1_2 .c-flex.fr {
   margin-left: -4px!important;
@@ -144,95 +150,17 @@ $("style").last().append(`
   margin-left: 5px;
 }
 #users .uzr.stl1_2 .My_star1_2 {
-  width: 84px;
-  margin-top: -74px;
-  height: 80px;
+	width: 84px;
+    margin-top: -73px;
+    height: 79px;
 }
 #users .uzr.stl1_2 .My_tsor1_2 {
   width: 79px;
   margin-top: -45px;
   z-index: 0;
-  margin-left: 36px;
+  margin-left: 44px;
 }
 #users .uzr.stl1_2 .My_vedio1_2 {
-  float: right;
-  width: 20px;
-  margin-top: 0px;
-  margin-right: 5px;
-  cursor: pointer;
-}
-
-
-
-
-
-#users .uzr.stl2 .fitimg.u-pic {
-  border-radius: 100px !important;
-  margin-top: 9px !important;
-  height: 52px !important;
-  margin-left: 12px !important;
-  z-index: 0 !important;
-}
-#users .uzr.stl2 .d-flex.dots {
-  margin-top: 7px !important;
-  margin-left: 5px;
-}
-#users .uzr.stl2 .u-msg {
-  text-align: center;
-  -webkit-background-clip: text;
-  padding: 1px !important;
-  font-size: 89% !important;
-  -webkit-text-fill-color: #0000;
-  background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
-  color: transparent !important;
-  background-size: 90% 100%;
-  border-bottom: 1px solid #fff0;
-}
-#users .uzr.stl2 .ustat {
-  width: 54px !important;
-  border-radius: 0px 50px 50px 50px !important;
-  height: 52px !important;
-  margin-top: 5px !important;
-  min-height: 0% !important;
-  margin-left: 10px;
-  z-index: 0 !important;
-  display: none;
-}
-#users .uzr.stl2 span.uhash {
-  margin-right: 324px;
-  margin-top: 24px;
-  margin-left: 0px;
-}
-#users .uzr.stl2 img.co {
-  transform: rotate(90deg);
-  margin-top: -60px !important;
-  margin-right: 282px;
-}
-#users .uzr.stl2 {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-  margin-bottom: 1px !important;
-  margin-top: 2px !important;
-  border-radius: 4px;
-  background-size: cover;
-  border: 1px solid #fff;
-}
-#users .uzr.stl2 .c-flex.fr {
-  margin-left: -4px!important;
-  float: left;
-}
-#users .uzr.stl2 .d-flex.fl {
-  padding-right: 0px !important;
-}
-#users .uzr.stl2 .u-topic {
-  margin-left: 5px;
-}
-#users .uzr.stl2 .My_star2 {
-  width: 82px;
-  margin-top: -61px;
-  height: 72px;
-  margin-left: 0px;
-}
-#users .uzr.stl2 .My_vedio2 {
   float: right;
   width: 20px;
   margin-top: 0px;
@@ -257,12 +185,11 @@ $("style").last().append(`
   margin-left: 5px;
 }
 #users .uzr.abd_net1 .u-msg {
-  text-align: center;
   -webkit-background-clip: text;
   padding: 1px !important;
   font-size: 89% !important;
-  -webkit-text-fill-color: #0000;
-  background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
+  -webkit-text-fill-color: #a7dfff;
+  background-image: url(https://up6.cc/2023/02/16762563109011.gif);
   color: transparent !important;
   background-size: 90% 100%;
   border-bottom: 1px solid #fff0;
@@ -292,8 +219,10 @@ $("style").last().append(`
   margin-bottom: 1px !important;
   margin-top: 2px !important;
   border-radius: 4px;
-  background-size: cover;
   border: 1px solid #fff;
+  background-image: url(https://up6.cc/2023/02/167625277683711.gif);
+  background-size: 100%;
+  height: 66px;
 }
 #users .uzr.abd_net1 .c-flex.fr {
   margin-left: -4px!important;
@@ -331,12 +260,11 @@ $("style").last().append(`
   margin-left: 5px;
 }
 #users .uzr.abd_net2 .u-msg {
-  text-align: center;
   -webkit-background-clip: text;
   padding: 1px !important;
   font-size: 89% !important;
-  -webkit-text-fill-color: #0000;
-  background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
+  -webkit-text-fill-color: #a7dfff;
+  background-image: url(https://up6.cc/2023/02/16762563109011.gif);
   color: transparent !important;
   background-size: 90% 100%;
   border-bottom: 1px solid #fff0;
@@ -366,8 +294,10 @@ $("style").last().append(`
   margin-bottom: 1px !important;
   margin-top: 2px !important;
   border-radius: 4px;
-  background-size: cover;
   border: 1px solid #fff;
+  background-image: url(https://up6.cc/2023/02/167625277683711.gif);
+  background-size: 100%;
+  height: 66px;
 }
 #users .uzr.abd_net2 .c-flex.fr {
   margin-left: -4px!important;
