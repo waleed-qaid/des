@@ -20,7 +20,7 @@ $("style").last().append(`
   margin-left: 5px;
 }
 #users .uzr.stl1_1 img.u-ico {
-    margin-left: 190px;
+    margin-left: 179px;
 }
 #users .uzr.stl1_1 .u-msg {
     text-align: right;
@@ -29,8 +29,8 @@ $("style").last().append(`
     font-size: 89% !important;
     -webkit-text-fill-color: #fff0;
     background-size: 130% 100%;
-    margin-bottom: 10px;
-    margin-top: 10px;
+    margin-bottom: 7px;
+    margin-top: 7px;
     width: 295px;
     float: right;
     margin-right: 7px;
@@ -61,7 +61,7 @@ $("style").last().append(`
     margin-top: 3px !important;
     border-radius: 3px;
     background-image: url(https://up6.cc/2023/02/167629559166641.png);
-    background-size: 100%;
+    background-size: cover;
     border: 1px solid #ffd74e;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 4px #000000;
 }
@@ -120,8 +120,8 @@ div#my_mood1_2 {
     font-size: 89% !important;
     -webkit-text-fill-color: #fff0;
     background-size: 130% 100%;
-    margin-bottom: 10px;
-    margin-top: 10px;
+    margin-bottom: 7px;
+    margin-top: 7px;
     width: 295px;
     float: right;
     margin-right: 7px;
@@ -138,7 +138,7 @@ div#my_mood1_2 {
   display: none;
 }
 #users .uzr.stl1_2 img.u-ico {
-  margin-left: 190px;
+  margin-left: 179px;
 }
 #users .uzr.stl1_2 span.uhash {
   margin-right: 324px;
@@ -155,7 +155,7 @@ div#my_mood1_2 {
     margin-top: 3px !important;
     border-radius: 3px;
     background-image: url(https://up6.cc/2023/02/167629559166641.png);
-    background-size: 100%;
+    background-size: cover;
     border: 1px solid #ffd74e;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 4px #000000;
 }
@@ -215,7 +215,7 @@ div#my_mood1_2 {
   color: transparent !important;
   background-size: 90% 100%;
   border-bottom: 1px solid #fff0;
-  margin-bottom: 6px;
+  margin-bottom: 7px;
 }
 #users .uzr.abd_net1 .ustat {
   width: 54px !important;
@@ -290,7 +290,7 @@ div#my_mood1_2 {
   color: transparent !important;
   background-size: 90% 100%;
   border-bottom: 1px solid #fff0;
-    margin-bottom: 6px;
+    margin-bottom: 7px;
 }
 #users .uzr.abd_net2 .ustat {
   width: 54px !important;
