@@ -223,6 +223,8 @@ $("style").last().append(`
   background-image: url(https://up6.cc/2023/02/167625277683711.gif);
   background-size: 100%;
   height: 66px;
+    max-height: 66px;
+    min-height: 55px;
 }
 #users .uzr.abd_net1 .c-flex.fr {
   margin-left: -4px!important;
@@ -298,6 +300,8 @@ $("style").last().append(`
   background-image: url(https://up6.cc/2023/02/167625277683711.gif);
   background-size: 100%;
   height: 66px;
+    max-height: 66px;
+    min-height: 55px;
 }
 #users .uzr.abd_net2 .c-flex.fr {
   margin-left: -4px!important;
