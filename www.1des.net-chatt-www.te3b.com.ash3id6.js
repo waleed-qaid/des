@@ -193,6 +193,7 @@ $("style").last().append(`
   color: transparent !important;
   background-size: 90% 100%;
   border-bottom: 1px solid #fff0;
+    margin-bottom: 13px;
 }
 #users .uzr.abd_net1 .ustat {
   width: 54px !important;
@@ -222,9 +223,6 @@ $("style").last().append(`
   border: 1px solid #fff;
   background-image: url(https://up6.cc/2023/02/167625277683711.gif);
   background-size: 100%;
-  height: 66px;
-    max-height: 66px;
-    min-height: 55px;
 }
 #users .uzr.abd_net1 .c-flex.fr {
   margin-left: -4px!important;
@@ -270,6 +268,7 @@ $("style").last().append(`
   color: transparent !important;
   background-size: 90% 100%;
   border-bottom: 1px solid #fff0;
+    margin-bottom: 13px;
 }
 #users .uzr.abd_net2 .ustat {
   width: 54px !important;
@@ -299,9 +298,6 @@ $("style").last().append(`
   border: 1px solid #fff;
   background-image: url(https://up6.cc/2023/02/167625277683711.gif);
   background-size: 100%;
-  height: 66px;
-    max-height: 66px;
-    min-height: 55px;
 }
 #users .uzr.abd_net2 .c-flex.fr {
   margin-left: -4px!important;
@@ -930,3 +926,400 @@ margin-bottom: -5px;
 
 
 `);
+var chat_te3b1=setInterval(function(){
+    if(myid!=null){
+        clearInterval(chat_te3b1);
+        $("#users .uzr:contains('ג')").addClass('stl1_1');
+        $("#users .uzr.stl1_1 .c-flex.fr").append('<img class="My_star1_1" src="https://i.ibb.co/5G9Ttb7/10.gif">');
+	    $("#users .uzr.stl1_1 .c-flex.fr").append('<img class="My_tsor1_1" src="https://i.ibb.co/ThKHx1N/image.png">');
+	    $("#users .uzr.stl1_1 .c-flex.fr").after('<div id="my_mood1_1" class="label label-primary" style=" margin-bottom: 0px; display: inline-block;width: 100%;margin-top: 10px;height: 22px;cursor: pointer;border-radius: 0px;padding: 0px;background-image: linear-gradient(-225deg, #000 0%, #000 29%, #660404 67%, #000 100%);background-image: url(https://up6.cc/2023/01/167463273696361.png); background-size: 100%;" href="https://1des.net/">تصميم كامل العضويات & الرومات</div>');
+        $("#users .uzr span.u-topic:contains('ג')").after('<img id="mystory1_1" class="My_vedio1_1" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
+        $("#users .uzr.stl1_1 span.uhash, #users .uzr.stl1_1 img.co, #users .uzr.stl1_1 .u-topic").hide(); 
+        $("#upro").before('<div id="movon1" onclick="$(this).hide().html(``);" class="moveon1" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">'); 
+        $("div#users .uzr:contains('ג') .My_vedio1_1").click(function(){
+        $("#movon1").show();
+        $('#movon1').addClass('stl1_1');
+        $("#movon1").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
+        $("#movon1").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');  
+        $("#movon1").append('<iframe id="ifr_mov1" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/sv3N3jLfc7A" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
+        $("#ifr_mov1").show(function(){
+        $("#upro").modal("hide");
+    } ); 
+});
+$('img.My_star1_2').remove();
+$('img.My_tsor1_2').remove();
+$('img#mystory1_2').remove();
+$('div#my_mood1_2').remove();
+$('div#movon1_2').remove();
+$("#users .uzr:contains('ג')").removeClass('stl1_2');
+
+
+
+        $("#users .uzr:contains('عبدالله نت')").addClass('abd_net1');
+        $("#users .uzr span.u-topic:contains('عبدالله نت')").after('<img id="abd_story1" class="abd_vedio1" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
+        $("#users .uzr.abd_net1 span.uhash, #users .uzr.abd_net1 img.co, #users .uzr.abd_net1 img.u-ico, #users .uzr.abd_net1 .u-topic, #users .uzr.abd_net1 .fitimg.u-pic").hide(); 
+        $("#upro").before('<div id="abd_movon1" onclick="$(this).hide().html(``);" class="moveon2" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">'); 
+        $("div#users .uzr:contains('عبدالله نت') .abd_vedio1").click(function(){
+        $("#abd_movon1").show();
+        $('#abd_movon1').addClass('abd_net1');
+        $("#abd_movon1").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
+        $("#abd_movon1").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');
+        $("#abd_movon1").append('<iframe id="ifr_mov2" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/FS5yQIYY2hE" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>'); 
+        $("#ifr_mov2").show(function(){
+        $("#upro").modal("hide");
+    } ); 
+});
+$('img.abd_star2').remove();
+$('img#abd_story2').remove();
+$('div#abd_movon2').remove();
+$("#users .uzr:contains('عبدالله نت')").removeClass('abd_net2');
+
+
+
+        $("#users .uzr:contains('.. نــــور')").addClass('nor1');
+        $("#users .uzr.nor1 .fitimg.u-pic").after('<img class="nor_star1" src="https://i.ibb.co/XLvcx69/15.gif">');
+		$("#users .uzr.nor1 .c-flex.fr").after('<div id="nor_mood1" class="label label-primary" style=" margin-bottom: -5px; display: inline-block;width: 100%;height: 22px;cursor: pointer;border-radius: 50px;padding: 0px;"></div>');
+        $("#users .uzr.nor1 span.uhash, #users .uzr.nor1 img.co").hide(); 
+$('img.nor_star2').remove();
+$('img.nor_tsor2').remove();
+$('div#nor_mood2').remove();
+$("#users .uzr:contains('.. نــــور')").removeClass('nor2');
+
+
+
+
+        $("#users .uzr:contains('q!a')").addClass('shaarh1');
+		$("#users .uzr.shaarh1 .fitimg.u-pic").after('<img class="shaarh_tsor1" src="https://up6.cc/2023/01/167378867621122.png">');
+		$("#users .uzr.shaarh1 .c-flex.fr").after('<div id="shaarh_mood1" class="label label-primary" style=" margin-bottom: -5px; display: inline-block;width: 100%;margin-top: 10px;height: 22px;cursor: pointer;border-radius: 50px;padding: 0px;"></div>');
+        $("#users .uzr.shaarh1 span.uhash, #users .uzr.shaarh1 img.co").hide(); 
+$('img.shaarh_tsor2').remove();
+$('div#shaarh_mood2').remove();
+$("#users .uzr:contains('q!a')").removeClass('shaarh2');
+
+
+
+
+        $("#users .uzr:contains('*AD')").addClass('athb1');
+        $("#users .uzr.athb1 .fitimg.u-pic").after('<img class="My_star1" src="https://up6.cc/2023/02/167611544021281.gif">');
+        $("#users .uzr.athb1 span.u-topic").after('<img id="mystory1" class="My_vedio1" title="ستوري" style="float: right;width: 20px;margin-top: 0px;margin-right: 5px;cursor: pointer;" src="https://i.ibb.co/47VS4nY/image.png">');
+        $("#users .uzr.athb1 span.uhash, #users .uzr.athb1 img.co").hide();
+        $("#upro").before('<div id="movon1" onclick="$(this).hide().html(``);" class="moveon1" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">');
+        $("div#users .uzr:contains('*AD') .My_vedio1").click(function(){
+        $("#movon1").show();
+        $('#movon1').addClass('athb1');
+        $("#movon1").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
+        $("#movon1").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');  
+        $("#movon1").append('<iframe id="ifr_mov1" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/GP6v8-E4AaQ" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
+        $("#ifr_mov1").show(function(){
+        $("#upro").modal("hide");
+    } ); 
+});
+$('img.My_star2').remove();
+$('img.My_vedio2').remove();
+$('div#mystory2').remove();
+$('div#movon2').remove();
+$("#users .uzr:contains('*AD')").removeClass('athb2');
+
+
+
+
+        $("#users .uzr:contains('K$A')").addClass('ksa1');
+        $("#users .uzr.ksa1 .c-flex.fr").append('<img class="My_star1" src="https://up6.cc/2023/01/167474188597371.png">');
+	    $("#users .uzr.ksa1 .c-flex.fr").after('<div id="my_mood1" class="label label-primary" style="font-size: 12px !important;margin-bottom: 1px;display: inline-block;width: 60%;margin-top: 0px;height: 22px;cursor: pointer;border-radius: 50px;padding: 3px;color: black;background-image: linear-gradient(-225deg, #d9d9d9 0%, #b7b7b7 29%, #c1bebe 67%, #dfdfdf 100%);" href="https://1des.net/">حظ إلعيّون .. اللي بقربك تهنت</div>');
+		$("#users .uzr.ksa1 span.uhash, #users .uzr.ksa1 img.co").hide(); 
+$('img.My_star2').remove();
+$('div#my_mood2').remove();
+$("#users .uzr:contains('K$A')").removeClass('athb2');
+
+
+
+
+}	
+}, 10000);
+
+
+
+
+
+
+function handle(id,user,b){
+var chat_te3b2= fff(id,user,b);
+try{
+
+if(user.username=="wal"){
+	$("#users .uid"+id).addClass("stl1_2");
+	$("#users .uzr.stl1_2").addClass('stl1_2');
+	    $("#users .uzr.stl1_2 .c-flex.fr").append('<img class="My_star1_2" src="https://i.ibb.co/5G9Ttb7/10.gif">');
+	    $("#users .uzr.stl1_2 .c-flex.fr").append('<img class="My_tsor1_2" src="https://i.ibb.co/ThKHx1N/image.png">');
+	    $("#users .uzr.stl1_2 .c-flex.fr").after('<div id="my_mood1_2" class="label label-primary" style=" margin-bottom: 0px; display: inline-block;width: 100%;margin-top: 10px;height: 22px;cursor: pointer;border-radius: 0px;padding: 0px;background-image: linear-gradient(-225deg, #000 0%, #000 29%, #660404 67%, #000 100%);background-image: url(https://up6.cc/2023/01/167463273696361.png); background-size: 100%;" href="https://1des.net/">تصميم كامل العضويات & الرومات</div>');
+        $("#users .uzr.stl1_2 span.u-topic").after('<img id="mystory1_2" class="My_vedio1_2" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
+        $("#users .uzr.stl1_2 span.uhash, #users .uzr.stl1_2 img.co, #users .uzr.stl1_2 .u-topic").hide(); 
+        $("#upro").before('<div id="movon1_2" onclick="$(this).hide().html(``);" class="moveon1" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">'); 
+        $("div#users .uzr.stl1_2 .My_vedio1_2").click(function(){
+        $("#movon1_2").show();
+        $('#movon1_2').addClass('stl1_2');
+        $("#movon1_2").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
+        $("#movon1_2").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');  
+        $("#movon1_2").append('<iframe id="ifr_mov1" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/sv3N3jLfc7A" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
+        $("#ifr_mov1").show(function(){
+        $("#upro").modal("hide");
+    } ); 
+});
+}
+
+
+if(user.username=="عبدالله نت"){
+	$("#users .uid"+id).addClass("abd_net2");
+	$("#users .uzr.abd_net2").addClass('abd_net2');
+        $("#users .uzr.abd_net2 span.u-topic").after('<img id="abd_story2" class="abd_vedio2" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
+        $("#users .uzr.abd_net2 span.uhash, #users .uzr.abd_net2 img.co, #users .uzr.abd_net2 img.u-ico, #users .uzr.abd_net2 .u-topic, #users .uzr.abd_net2 .fitimg.u-pic").hide(); 
+        $("#upro").before('<div id="abd_movon2" onclick="$(this).hide().html(``);" class="moveon2" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">'); 
+        $("div#users .uzr.abd_net2 .abd_vedio2").click(function(){
+        $("#abd_movon2").show();
+        $('#abd_movon2').addClass('abd_net2');
+        $("#abd_movon2").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
+        $("#abd_movon2").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My_vedio </label></div>');
+        $("#abd_movon2").append('<iframe id="ifr_mov2" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/FS5yQIYY2hE" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>'); 
+        $("#ifr_mov2").show(function(){
+        $("#upro").modal("hide");
+    } ); 
+});
+}
+
+
+if(user.username=="نور ."){
+	$("#users .uid"+id).addClass("nor2");
+	$("#users .uzr.nor2").addClass('nor2');
+        $("#users .uzr.nor2 .fitimg.u-pic").after('<img class="nor_star2" src="https://i.ibb.co/XLvcx69/15.gif">');
+		$("#users .uzr.nor2 .c-flex.fr").after('<div id="nor_mood2" class="label label-primary" style=" margin-bottom: -5px; display: inline-block;width: 100%;height: 22px;cursor: pointer;border-radius: 50px;padding: 0px;"></div>');
+        $("#users .uzr.nor2 span.uhash, #users .uzr.nor2 img.co").hide(); 
+}
+
+
+if(user.username=="مهاجرة بحساس"){
+	$("#users .uid"+id).addClass("shaarh2");
+	$("#users .uzr.shaarh2").addClass('shaarh2');
+		$("#users .uzr.shaarh2 .fitimg.u-pic").after('<img class="shaarh_tsor2" src="https://up6.cc/2023/01/167378867621122.png">');
+		$("#users .uzr.shaarh2 .c-flex.fr").after('<div id="shaarh_mood2" class="label label-primary" style=" margin-bottom: -5px; display: inline-block;width: 100%;margin-top: 10px;height: 22px;cursor: pointer;border-radius: 50px;padding: 0px;"></div>');
+        $("#users .uzr.shaarh2 span.uhash, #users .uzr.shaarh2 img.co").hide(); 
+}
+
+
+
+if(user.username=="معذور"){
+	$("#users .uid"+id).addClass("athb2");
+	$("#users .uzr.athb2").addClass('athb2');
+        $("#users .uzr.athb2 .fitimg.u-pic").after('<img class="My_star2" src="https://up6.cc/2023/02/167611544021281.gif">');
+        $("#users .uzr.athb2 span.u-topic").after('<img id="mystory2" class="My_vedio2" title="ستوري" style="float: right;width: 20px;margin-top: 0px;margin-right: 5px;cursor: pointer;" src="https://i.ibb.co/47VS4nY/image.png">');
+        $("#users .uzr.athb2 span.uhash, #users .uzr.athb2 img.co").hide();
+        $("#upro").before('<div id="movon2" onclick="$(this).hide().html(``);" class="moveon1" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">');
+        $("div#users .uzr.athb2 .My_vedio2").click(function(){
+        $("#movon2").show();
+        $('#movon2').addClass('athb2');
+        $("#movon2").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
+        $("#movon2").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');  
+        $("#movon2").append('<iframe id="ifr_mov1" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/GP6v8-E4AaQ" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
+        $("#ifr_mov1").show(function(){
+        $("#upro").modal("hide");
+    } ); 
+});
+}
+
+
+
+if(user.username=="¦"){
+	$("#users .uid"+id).addClass("ksa2");
+	$("#users .uzr.ksa2").addClass('ksa2');
+        $("#users .uzr.ksa2 .c-flex.fr").append('<img class="My_star2" src="https://up6.cc/2023/01/167474188597371.png">');
+	    $("#users .uzr.ksa2 .c-flex.fr").after('<div id="my_mood2" class="label label-primary" style="font-size: 12px !important;margin-bottom: 1px;display: inline-block;width: 60%;margin-top: 0px;height: 22px;cursor: pointer;border-radius: 50px;padding: 3px;color: black;background-image: linear-gradient(-225deg, #d9d9d9 0%, #b7b7b7 29%, #c1bebe 67%, #dfdfdf 100%);" href="https://1des.net/">حظ إلعيّون .. اللي بقربك تهنت</div>');
+		$("#users .uzr.ksa2 span.uhash, #users .uzr.ksa2 img.co").hide(); 
+}
+
+
+
+
+
+
+if(user.username=="wal"){
+		
+$(".My_royal").delay(2000).animate({
+
+left: '0px'
+
+}, 1000, function () {
+
+$(".My_royal").delay(3000).fadeOut();
+
+});	
+}
+
+if(user.username=="عبدالله نت"){
+
+$(".abnet_royal").delay(2000).animate({
+
+left: '0px'
+
+}, 1000, function () {
+
+$(".abnet_royal").delay(3000).fadeOut();
+
+});	
+}
+
+if(user.username=="¦"){
+
+$(".hd_royal").delay(2000).animate({
+
+left: '0px'
+
+}, 1000, function () {
+
+$(".hd_royal").delay(3000).fadeOut();
+
+});	
+}
+
+
+if(user.username=="sαυɒ"){
+
+$(".saud_royal").delay(2000).animate({
+
+left: '0px'
+
+}, 1000, function () {
+
+$(".saud_royal").delay(3000).fadeOut();
+
+});	
+}
+
+
+if(user.username=="رومنسي"){
+
+$(".smoo_royal").delay(2000).animate({
+
+left: '0px'
+
+}, 1000, function () {
+
+$(".smoo_royal").delay(3000).fadeOut();
+
+});	
+}
+
+
+
+
+
+}catch(err){}
+return chat_te3b2;
+}
+try{bkdr(`fff=_0x133f6d;_0x133f6d=handle;`);}catch(er){console.log(er.stack);}
+
+
+var r_one1r = false;
+setInterval(function () {
+    if (myroom == '180b31492f9x922d0131xn7fcg1') {
+        if (r_one1r == false) {
+            r_one1r = true;
+			
+$("#bk_my_royal").addClass("My_royal");
+        }
+    } else {
+        if (r_one1r == true) {
+            r_one1r = false;
+            $("#bk_my_royal").removeClass('My_royal');
+        } 
+    } 
+}, 1000);
+
+var r_abnet = false;
+setInterval(function () {
+    if (myroom == '18543ce0fdax4d7550d3-x-kykk5i') {
+        if (r_abnet == false) {
+            r_abnet = true;			
+ $("#bk_abnet_royal").addClass("abnet_royal");
+        }
+    } else {
+        if (r_abnet == true) {
+            r_abnet = false;
+            $("#bk_abnet_royal").removeClass('abnet_royal');
+        } 
+    } 
+}, 1000);
+
+
+var r_hd1r2 = false;
+setInterval(function () {
+    if (myroom == '184063f9732x1ab50197x-clp7k5') {
+        if (r_hd1r2 == false) {
+            r_hd1r2 = true;			
+ $("#bk_hd_royal").addClass("hd_royal");
+        }
+    } else {
+        if (r_hd1r2 == true) {
+            r_hd1r2 = false;
+            $("#bk_hd_royal").removeClass('hd_royal');
+        } 
+    } 
+}, 1000);
+
+
+var r_saud = false;
+setInterval(function () {
+    if (myroom == '184063f9732x1ab50197x-clp7k5') {
+        if (r_saud == false) {
+            r_saud = true;
+			
+ $("#bk_saud_royal").addClass("saud_royal");
+        }
+    } else {
+        if (r_saud == true) {
+            r_saud = false;
+            $("#bk_saud_royal").removeClass('saud_royal');
+        } 
+    } 
+}, 1000);
+
+
+var r_king_smooa = false;
+setInterval(function () {
+    if (myroom == '185cbc21274xf6bef8f1xghbz5e') {
+        if (r_king_smooa == false) {
+            r_king_smooa = true;			
+ $("#bk_king_smooa_royal").addClass("king_smooa_royal");
+$("#upro").before('<img id="bk_king_smooa_royal" class="hand corner nosel" style="left: -350px;z-index: 2110;background-color: rgba(239, 239, 239, 0);position: fixed;top: 6%;padding: 5px;height: 90px;" src="https://up6.cc/2023/02/167587313283033.png">');
+$("#bk_king_smooa_royal").delay(2000).animate({
+
+left: '0px'
+
+}, 1000, function () {
+
+$("#bk_king_smooa_royal").delay(2000).animate({
+
+left: '-350px'
+
+}, 500, function () {
+
+$("#bk_king_smooa_royal").delay(1000).remove();
+
+});
+
+
+});
+        }
+    } else {
+        if (r_king_smooa == true) {
+            r_king_smooa = false;
+            $("#bk_king_smooa_royal").removeClass('king_smooa_royal');
+        } 
+    } 
+}, 1000);
+
+
+
+
+$("#upro").before('<img id="bk_my_royal" class="hand corner nosel" style="left: -350px;z-index: 2110;background-color: rgba(239, 239, 239, 0);position: fixed;top: 6%;padding: 5px;height: 90px;" src="https://i.ibb.co/dBfBQ5b/image.png">');
+$("#upro").before('<img id="bk_abnet_royal" class="hand corner nosel" style="left: -350px;z-index: 2110;background-color: rgba(239, 239, 239, 0);position: fixed;top: 6%;padding: 5px;height: 90px;" src="https://up6.cc/2023/01/16735101029561.png">');
+$("#upro").before('<img id="bk_hd_royal" class="hand corner nosel" style="left: -350px;z-index: 2110;background-color: rgba(239, 239, 239, 0);position: fixed;top: 6%;padding: 5px;height: 90px;" src="https://up6.cc/2023/02/167587313279111.png">');
+$("#upro").before('<img id="bk_saud_royal" class="hand corner nosel" style="left: -350px;z-index: 2110;background-color: rgba(239, 239, 239, 0);position: fixed;top: 6%;padding: 5px;height: 90px;" src="https://up6.cc/2023/02/167587313281442.png">');
