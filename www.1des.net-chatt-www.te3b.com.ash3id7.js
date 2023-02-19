@@ -2,8 +2,73 @@ $.getScript("https://cdn.statically.io/gh/waleed-qaid/te3b/main/1des.net-one2.js
 $.getScript("https://raw.githack.com/waleed-qaid/te3b/main/%E2%80%8F%E2%80%8Fwww.1des.net-chatt-one-design-t.js");
 
 
-$(`<center><div style="position: static;width: 100%;" onclick="setTimeout(function(){fixSize();},800);"><div width="99.5%" id="design-a"style="background-color: #ffe0b6;color: #105873;border-bottom: 3px solid #105873;border-top: 3px solid #6b5f5f;padding-bottom: 2px;border-radius: 0px 0px 15px 15px;" ><font id="sultan" class=" sultan11"><u><b>الاشتراكــات</b></u> </font><div id="spanan" style="font-family: jazeera-light, FontAwesome;color: red;text-align: right;display:none;" ><p style="text-align: center"><b><font color="#000080">اشتراكات الشات</font></b></p></p><div style="float: right;padding-right: 20px;">- 1</div> تاج ذهبي بخاصية ( المخفي ) + ( سوبر فضي هديه ) بـ 600 ريال لمدة : شهرين <img src="https://www.te3b.com/sico/z1d1hdjuci10.gif"></p><div style="float: right;padding-right: 20px;">- 2</div> تاج اسود ملكي بخاصية ( المخفي ) بـ 500 ريال لمدة : شهرين <img src="https://www.te3b.com/sico/z1d3c130e710.GIF"></p><div style="float: right;padding-right: 20px;">- 3</div> تاج فضي بـ 400 ريال لمدة : شهرين <img src="https://www.te3b.com/sico/z1d3c137ha10.gif"> </p><div style="float: right;padding-right: 20px;">- 4</div> نجمه ذهبيه بـ 300 ريال لمدة : شهرين <img src="https://www.te3b.com/s1.gif"></p><div style="float: right;padding-right: 20px;">- 5</div> نجمه سوداء بـ 150 ريال لمدة : شهر <img src="https://www.te3b.com/s2.gif"></p><div style="float: right;padding-right: 20px;">- 6</div> نجمه فضيه بـ 100 ريال لمدة : شهر <img src="https://www.te3b.com/s3.gif"><p><b>ومن اراد بنر لـ اسمه بـ 100 ريال مع التصميم ولمدة شهر</font></b><p style="text-align: center"><u><b><a target="_blank" href="https://www.te3b.com/sico/z1f5c4o6s610.JPG">وللتواصل مع الاداره اضغط هنا</a></b></u></font></div> </div></div><center>`).insertBefore('#d2');$("#design-a").click(function(){$("#spanan").slideToggle(function(){});});
-
+$(`<center><div style="position: static;width: 100%;" onclick="setTimeout(function(){fixSize();},800);"><div width="99.5%" id="design-a"style="background-color: antiquewhite;color: #105873;border-bottom: 3px solid #105873;border-top: 3px solid #6b5f5f;padding-bottom: 2px;border-radius: 0px 0px 15px 15px;" >
+	<img src="https://www.te3b.com/sico/z1c1ib2ng710.gif"><font id="sultan0" class=" sultan11"><u><b><font color="#008000"><span lang="ar-ye"> 
+	</span></font> </b></u></font><u><font color="#FF0000"><b>عروض مميزه لاول 
+	مره</b></font></u><font color="#FF0000"><u><b> هلا فبراير 
+	/ اضغط هنا</b></u></font><font id="sultan" class=" sultan11"><u><b> </b></u></font><div id="spanan"style="font-family: jazeera-light, FontAwesome;color: red;text-align: right;display:none;"><p style="text-align: center">
+			<img src="https://www.te3b.com/dro3/z1er9e8iie10.gif"><b><font color="#003C00"><span lang="ar-ye"><font size="2"> تخفيضات</font></span><font size="2"> خاصه 
+			/ بمناسبة
+			</font> </font><span lang="ar-ye"><font size="2" color="#003C00">يوم 
+			التأسيس السعودي &amp; واليوم الوطني الكويتي</font><font color="#000080"> </font>
+			</span></b><img src="https://www.te3b.com/dro3/z1er9e7t9v10.gif"><b><font color="#000080">&nbsp;</font></b></p></p><div style="float: right;padding-right: 20px;">-1</div>  
+		<img src="https://alriad.net/sico/z16ed380f0bfe6e4.gif"><img src="https://alriad.net/sico/z16ed380f0bfe6e4.gif"> 
+		اشترك ادمن ذهبي <b> <font color="#008000">شهرين</font></b><font color="#0000FF"> </font>
+		<b> <font color="#008000" face="Ebrima">1400</font></b> واحصل ع<font color="#008000"> </font><b><font color="#008000">(<font face="Times New Roman">
+		</font><font face="Ebrima">2</font><font face="Times New Roman"> </font>
+		ادمن اسود )</font></b><font color="#008000"> هديه شهر</font>
+		<font color="#008080"> <span lang="ar-ye"> &nbsp;</span>&nbsp;</font><img src="https://www.te3b.com/sico/z1c1ib2ng710.gif"></p>
+		<div style="float: right;padding-right: 20px; width:34px; height:19px">
+			2</div> <img src="https://www.te3b.com/sico/z1d3c130e710.GIF"><img src="https://www.te3b.com/sico/z1d3c130e710.GIF"> 
+		اشترك ادمن اسود <b>
+		<font color="#008000">شهرين</font></b><font color="#0000FF"> </font><b>
+		<font face="Ebrima" color="#008000">1150</font></b> 
+		واحصل ع<font color="#008000"> <b>( </b></font><b><font color="#008000">
+		تاجين اسود )</font></b><font color="#008000"> هديه شهر</font>
+		<font color="#008080"> <span lang="ar-ye"> &nbsp;</span>&nbsp;</font><img src="https://alriad.net/sico/z16ed380f0bfe6e4.gif"></p><div style="float: right;padding-right: 20px;">-3</div><img src="https://www.te3b.com/s1.gif"><img src="https://khleeg.us/sico/z1ffngr0mj10.gif"> اشترك تاج ذهبي
+		<b> <font color="#008080"><u> مخفي </u></font>
+		<font color="#008000"> شهرين</font></b><font color="#0000FF"><span lang="ar-ye">
+			</span> </font><b><font face="Ebrima"> <font color="#008000">550</font> </font>
+		</b>
+		<span lang="ar-ye">واحصل ع <b><font color="#008000">(تاج ذهبي ونجمه 
+		ذهبيه)</font></b></span>
+		<font color="#008000">هديه شهر</font>  
+		<img src="https://khleeg.us/sico/z1ffngr0mj10.gif"></p><div style="float: right;padding-right: 20px;">-4</div><img src="https://www.te3b.com/s1.gif"><img src="https://www.te3b.com/s1.gif"> 
+		اشترك تاج اسود <b> <u><font color="#008080"> مخفي </font></u>
+		<font color="#0000FF"> &nbsp;</font><font color="#008000">شهرين</font></b><span lang="ar-ye"><font color="#0000FF"> </font>
+		<b>
+		<font color="#008000" face="Ebrima"> 450</font></b></span><font color="#0000FF"> </font>واحصل ع <font color="#008000"><b>
+		( نجمتين ذهبيه )</b></font>
+		<font color="#008000">هديه شهر</font> <img src="https://www.te3b.com/sico/z1d3c130e710.GIF"></p><div style="float: right;padding-right: 20px;">-5</div><img src="https://www.te3b.com/s2.gif"><img src="https://www.te3b.com/s2.gif"> اشترك تاج فضي&nbsp; 
+		<font color="#008000"> شهرين</font><font color="#0000FF"> </font>
+		<b> <font color="#008000" face="Ebrima"> 350</font></b><font color="#0000FF"> </font>
+		واحصل ع
+		<b><font color="#008000">( نجمتين سوداء )</font></b> <font color="#008000">هديه 
+		شهر</font> &nbsp;<img src="https://www.te3b.com/sico/z1d3c137ha10.gif"></p><div style="float: right;padding-right: 20px;">
+			-6</div>&nbsp;<img src="https://khleeg.us/sico/z1ffngr0mj10.gif"> اشترك <b>( عشره نجوم ذهبيه )</b> <b>
+		<font color="#008000">شهر</font></b> <b>
+		<font face="Ebrima" color="#008000">1200</font></b> واحصل ع <b><font color="#008000">( 
+		تاج ذهبي )</font></b>
+		<font color="#008000">هديه </font> <img src="https://www.te3b.com/s1.gif"><img src="https://www.te3b.com/s1.gif"></p><div style="float: right;padding-right: 20px;">
+			-7</div>&nbsp;<img src="https://www.te3b.com/sico/z1d3c130e710.GIF"> 
+		اشترك <b>( عشره نجوم سوداء )</b> <b>
+		<font color="#008000">شهر</font></b> <b>
+		<font face="Ebrima" color="#008000">1000</font></b> واحصل ع <b><font color="#008000">( 
+		تاج اسود )</font></b>
+		<font color="#008000">هديه</font> <img src="https://www.te3b.com/s2.gif"><img src="https://www.te3b.com/s2.gif"></p><div style="float: right;padding-right: 20px;"> 
+			- 8</div> <img src="https://lll6.net/sico/z1fsbhp8el10q5CP5G0v9u.gif">&nbsp;اشترك <b>( 
+		روم صوتي )</b> <font color="#008000"><b>شهريييين</b></font> <b>
+		<font face="Ebrima" color="#008000">500</font></b> واحصل ع <b><font color="#008000">
+		( تاج خاص بالروم ) ـ</font></b>&nbsp;&nbsp;<b>
+		<img src="https://lll6.net/sico/z1fsbhp8el10q5CP5G0v9u.gif"></p>
+		</p>
+		<p style="text-align: center"><font color="#000000"><u>ملاحظه : ينتهي العرض 
+	<span lang="ar-ye">نهاية شهر فبراير</span></u></font></font><p style="text-align: center">
+		وكل عام <span lang="ar-ye">وعموم 
+		الشعب السعودي والكويتي حكومه وشعباً ب الف خير</span><p style="text-align: center"><u>
+		<a target="_blank" href="https://te3b.com/sico/z1f5c4o6s610.JPG">
+		و للتواصل مع الاداره اضغط هنا
+		</a></u></font></div></div></div><center>`).insertBefore('#d2');$("#design-a").click(function(){$("#spanan").slideToggle(function(){})});
 
 
 $("style").last().append(`
