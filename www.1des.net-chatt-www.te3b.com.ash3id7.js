@@ -1,4 +1,4 @@
-$.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-one3.js");
+$.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-one4.js");
 $.getScript("https://raw.githack.com/waleed-qaid/te3b/main/%E2%80%8F%E2%80%8Fwww.1des.net-chatt-one-design-t.js");
 
 
@@ -71,6 +71,8 @@ $(`<center><div style="position: static;width: 100%;" onclick="setTimeout(functi
 		</a></u></font></div></div></div><center>`).insertBefore('#d2');$("#design-a").click(function(){$("#spanan").slideToggle(function(){})});
 
 
+
+
 $("style").last().append(`
 #users .uzr.stl1_1 .fitimg.u-pic {
   border-radius: 100px !important;
@@ -78,28 +80,23 @@ $("style").last().append(`
   height: 52px !important;
   margin-left: 12px!important;
   z-index: 0 !important;
-  display: none;
 }
 #users .uzr.stl1_1 .d-flex.dots {
   margin-top: 7px !important;
   margin-left: 5px;
 }
 #users .uzr.stl1_1 img.u-ico {
-    margin-left: 174px;
+    margin-left: 9px;
 }
 #users .uzr.stl1_1 .u-msg {
-    text-align: right;
-    -webkit-background-clip: text;
-    padding: 1px !important;
-    font-size: 89% !important;
-    -webkit-text-fill-color: #fff0;
-    background-size: 130% 100%;
-    margin-bottom: 4px;
-    margin-top: 7px;
-    width: 230px;
-    float: right;
-    margin-right: 7px;
-    background-image: linear-gradient(-225deg, #fff 0%, #fff 29%, #eba41a 67%, #ffa800 100%);
+  text-align: center;
+  -webkit-background-clip: text;
+  padding: 1px !important;
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+  background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
+  color: transparent !important;
+  background-size: 90% 100%;
 }
 #users .uzr.stl1_1 .ustat {
   width: 54px !important;
@@ -122,13 +119,12 @@ $("style").last().append(`
   margin-right: 282px;
 }
 #users .uzr.stl1_1 {
-    margin-bottom: 3px !important;
+	margin-bottom: 3px !important;
     margin-top: 3px !important;
-    border-radius: 3px;
-    background-image: url(https://up6.cc/2023/02/167629559166641.png);
-    background-size: cover;
+    border-radius: 0px;
+    background-image: url(https://up6.cc/2023/02/167625867228221.png);
+    background-size: 100%;
     border: 1px solid #ffd74e;
-    box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 4px #000000;
 }
 #users .uzr.stl1_1 .c-flex.fr {
   margin-left: -4px!important;
@@ -144,27 +140,19 @@ $("style").last().append(`
 	width: 84px;
     margin-top: -73px;
     height: 79px;
-	display: none;
 }
 #users .uzr.stl1_1 .My_tsor1_1 {
   width: 79px;
   margin-top: -45px;
   z-index: 0;
   margin-left: 44px;
-  display: none;
 }
 #users .uzr.stl1_1 .My_vedio1_1 {
-    float: left;
-    width: 20px;
-    margin-top: 0px;
-    cursor: pointer;
-    margin-left: -279px;
-}
-div#my_mood1_1 {
-    display: none!important;
-}
-div#my_mood1_2 {
-    display: none!important;
+  float: right;
+  width: 20px;
+  margin-top: 0px;
+  margin-right: 5px;
+  cursor: pointer;
 }
 #users .uzr.stl1_2 .fitimg.u-pic {
   border-radius: 100px !important;
@@ -172,25 +160,20 @@ div#my_mood1_2 {
   height: 52px !important;
   margin-left: 12px!important;
   z-index: 0 !important;
-  display: none;
 }
 #users .uzr.stl1_2 .d-flex.dots {
   margin-top: 7px !important;
   margin-left: 5px;
 }
 #users .uzr.stl1_2 .u-msg {
-    text-align: right;
-    -webkit-background-clip: text;
-    padding: 1px !important;
-    font-size: 89% !important;
-    -webkit-text-fill-color: #fff0;
-    background-size: 130% 100%;
-    margin-bottom: 4px;
-    margin-top: 7px;
-    width: 230px;
-    float: right;
-    margin-right: 7px;
-    background-image: linear-gradient(-225deg, #fff 0%, #fff 29%, #eba41a 67%, #ffa800 100%);
+  text-align: center;
+  -webkit-background-clip: text;
+  padding: 1px !important;
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+  background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
+  color: transparent !important;
+  background-size: 90% 100%;
 }
 #users .uzr.stl1_2 .ustat {
   width: 54px !important;
@@ -203,7 +186,7 @@ div#my_mood1_2 {
   display: none;
 }
 #users .uzr.stl1_2 img.u-ico {
-  margin-left: 174px;
+    margin-left: 9px;
 }
 #users .uzr.stl1_2 span.uhash {
   margin-right: 324px;
@@ -216,13 +199,12 @@ div#my_mood1_2 {
   margin-right: 282px;
 }
 #users .uzr.stl1_2 {
-    margin-bottom: 3px !important;
+	margin-bottom: 3px !important;
     margin-top: 3px !important;
-    border-radius: 3px;
-    background-image: url(https://up6.cc/2023/02/167629559166641.png);
-    background-size: cover;
+    border-radius: 0px;
+    background-image: url(https://up6.cc/2023/02/167625867228221.png);
+    background-size: 100%;
     border: 1px solid #ffd74e;
-    box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 4px #000000;
 }
 #users .uzr.stl1_2 .c-flex.fr {
   margin-left: -4px!important;
@@ -238,21 +220,19 @@ div#my_mood1_2 {
 	width: 84px;
     margin-top: -73px;
     height: 79px;
-	display: none;
 }
 #users .uzr.stl1_2 .My_tsor1_2 {
   width: 79px;
   margin-top: -45px;
   z-index: 0;
   margin-left: 44px;
-  display: none;
 }
 #users .uzr.stl1_2 .My_vedio1_2 {
-    float: left;
-    width: 20px;
-    margin-top: 0px;
-    cursor: pointer;
-    margin-left: -279px;
+  float: right;
+  width: 20px;
+  margin-top: 0px;
+  margin-right: 5px;
+  cursor: pointer;
 }
 
 
@@ -280,7 +260,7 @@ div#my_mood1_2 {
   color: transparent !important;
   background-size: 90% 100%;
   border-bottom: 1px solid #fff0;
-  margin-bottom: 6px;
+    margin-bottom: 7px;
 }
 #users .uzr.abd_net1 .ustat {
   width: 54px !important;
@@ -308,7 +288,7 @@ div#my_mood1_2 {
   margin-top: 2px !important;
   border-radius: 4px;
   border: 1px solid #fff;
-  background-image: url(https://up6.cc/2023/02/167625277683711.gif);
+  background-image: url(https://up6.cc/2023/02/167695751465211.png);
   background-size: 100%;
 }
 #users .uzr.abd_net1 .c-flex.fr {
@@ -355,7 +335,7 @@ div#my_mood1_2 {
   color: transparent !important;
   background-size: 90% 100%;
   border-bottom: 1px solid #fff0;
-    margin-bottom: 6px;
+    margin-bottom: 7px;
 }
 #users .uzr.abd_net2 .ustat {
   width: 54px !important;
@@ -383,7 +363,7 @@ div#my_mood1_2 {
   margin-top: 2px !important;
   border-radius: 4px;
   border: 1px solid #fff;
-  background-image: url(https://up6.cc/2023/02/167625277683711.gif);
+  background-image: url(https://up6.cc/2023/02/167695751465211.png);
   background-size: 100%;
 }
 #users .uzr.abd_net2 .c-flex.fr {
@@ -934,6 +914,13 @@ margin-bottom: -5px;
 z-index: 1;
 margin-bottom: -5px;
 }
+#users .uzr.ksa1 .My_vedio1 {
+  float: right;
+  width: 20px;
+  margin-top: 0px;
+  margin-right: 5px;
+  cursor: pointer;
+}
 
 
 #users .uzr.ksa2 .fitimg.u-pic {
@@ -1010,6 +997,172 @@ margin-bottom: -5px;
 z-index: 1;
 margin-bottom: -5px;
 }
+#users .uzr.ksa2 .My_vedio2 {
+  float: right;
+  width: 20px;
+  margin-top: 0px;
+  margin-right: 5px;
+  cursor: pointer;
+}
 
+
+
+
+
+#users .uzr.rroohhh1 .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 9px !important;
+  height: 52px !important;
+  margin-left: 12px !important;
+  z-index: 0 !important;
+}
+#users .uzr.rroohhh1 .d-flex.dots {
+  margin-top: 7px !important;
+  margin-left: 5px;
+}
+#users .uzr.rroohhh1 .u-msg {
+  -webkit-background-clip: text;
+  padding: 1px !important;
+  font-size: 89% !important;
+  -webkit-text-fill-color: #a7dfff;
+  background-image: url(https://up6.cc/2023/02/16762563109011.gif);
+  color: transparent !important;
+  background-size: 90% 100%;
+  border-bottom: 1px solid #fff0;
+    margin-bottom: 13px;
+}
+#users .uzr.rroohhh1 .ustat {
+  width: 54px !important;
+  border-radius: 0px 50px 50px 50px !important;
+  height: 52px !important;
+  margin-top: 5px !important;
+  min-height: 0% !important;
+  margin-left: 10px;
+  z-index: 0 !important;
+  display: none;
+}
+#users .uzr.rroohhh1 span.uhash {
+  margin-right: 324px;
+  margin-top: 24px;
+  margin-left: 0px;
+}
+#users .uzr.rroohhh1 img.co {
+  transform: rotate(90deg);
+  margin-top: -60px !important;
+  margin-right: 282px;
+}
+#users .uzr.rroohhh1 {
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+margin-bottom: 1px !important;
+margin-top: 2px !important;
+border-radius: 4px;
+border: 1px solid #fff;
+background-image: url(https://up6.cc/2023/02/167682710415511.png);
+background-size: cover;
+height: 58px;
+}
+#users .uzr.rroohhh1 .c-flex.fr {
+  margin-left: -4px!important;
+  float: left;
+}
+#users .uzr.rroohhh1 .d-flex.fl {
+  padding-right: 0px !important;
+}
+#users .uzr.rroohhh1 .u-topic {
+  margin-left: 5px;
+}
+#users .uzr.rroohhh1 .abd_star1 {
+  width: 82px;
+  margin-top: -62px;
+  height: 72px;
+  margin-left: 1px;
+}
+#users .uzr.rroohhh1 .abd_vedio1 {
+  float: right;
+  width: 20px;
+  margin-top: 0px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+#users .uzr.rroohhh2 .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 9px !important;
+  height: 52px !important;
+  margin-left: 12px !important;
+  z-index: 0 !important;
+}
+#users .uzr.rroohhh2 .d-flex.dots {
+  margin-top: 7px !important;
+  margin-left: 5px;
+}
+#users .uzr.rroohhh2 .u-msg {
+  -webkit-background-clip: text;
+  padding: 1px !important;
+  font-size: 89% !important;
+  -webkit-text-fill-color: #a7dfff;
+  background-image: url(https://up6.cc/2023/02/16762563109011.gif);
+  color: transparent !important;
+  background-size: 90% 100%;
+  border-bottom: 1px solid #fff0;
+    margin-bottom: 13px;
+}
+#users .uzr.rroohhh2 .ustat {
+  width: 54px !important;
+  border-radius: 0px 50px 50px 50px !important;
+  height: 52px !important;
+  margin-top: 5px !important;
+  min-height: 0% !important;
+  margin-left: 10px;
+  z-index: 0 !important;
+  display: none;
+}
+#users .uzr.rroohhh2 span.uhash {
+  margin-right: 324px;
+  margin-top: 24px;
+  margin-left: 0px;
+}
+#users .uzr.rroohhh2 img.co {
+  transform: rotate(90deg);
+  margin-top: -60px !important;
+  margin-right: 282px;
+}
+#users .uzr.rroohhh2 {
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+margin-bottom: 1px !important;
+margin-top: 2px !important;
+border-radius: 4px;
+border: 1px solid #fff;
+background-image: url(https://up6.cc/2023/02/167682710415511.png);
+background-size: cover;
+height: 58px;
+}
+#users .uzr.rroohhh2 .c-flex.fr {
+  margin-left: -4px!important;
+  float: left;
+}
+#users .uzr.rroohhh2 .d-flex.fl {
+  padding-right: 0px !important;
+}
+#users .uzr.rroohhh2 .u-topic {
+  margin-left: 5px;
+}
+#users .uzr.rroohhh2 .abd_star2 {
+  width: 82px;
+  margin-top: -62px;
+  height: 72px;
+  margin-left: 1px;
+}
+#users .uzr.rroohhh2 .abd_vedio2 {
+  float: right;
+  width: 20px;
+  margin-top: 0px;
+  margin-right: 5px;
+  cursor: pointer;
+}
 
 `);
+
+
+
+
